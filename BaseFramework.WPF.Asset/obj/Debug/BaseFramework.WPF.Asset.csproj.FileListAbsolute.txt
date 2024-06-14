@@ -1,0 +1,14 @@
+C:\Users\LYH\Desktop\SoftLibs\XG.Framework.01Config\BaseFramework.WPF.Asset\bin\Debug\BaseFramework.WPF.Asset.dll
+C:\Users\LYH\Desktop\SoftLibs\XG.Framework.01Config\BaseFramework.WPF.Asset\bin\Debug\BaseFramework.WPF.Asset.pdb
+C:\Users\LYH\Desktop\SoftLibs\XG.Framework.01Config\BaseFramework.WPF.Asset\obj\Debug\BaseFramework.WPF.Asset.csproj.AssemblyReference.cache
+C:\Users\LYH\Desktop\SoftLibs\XG.Framework.01Config\BaseFramework.WPF.Asset\obj\Debug\Styles\ComboBoxStyles.baml
+C:\Users\LYH\Desktop\SoftLibs\XG.Framework.01Config\BaseFramework.WPF.Asset\obj\Debug\Styles\DataGridStyles.baml
+C:\Users\LYH\Desktop\SoftLibs\XG.Framework.01Config\BaseFramework.WPF.Asset\obj\Debug\Styles\ButtonStyles.baml
+C:\Users\LYH\Desktop\SoftLibs\XG.Framework.01Config\BaseFramework.WPF.Asset\obj\Debug\Styles\RationButtonStyles.baml
+C:\Users\LYH\Desktop\SoftLibs\XG.Framework.01Config\BaseFramework.WPF.Asset\obj\Debug\BaseFramework.WPF.Asset_MarkupCompile.cache
+C:\Users\LYH\Desktop\SoftLibs\XG.Framework.01Config\BaseFramework.WPF.Asset\obj\Debug\BaseFramework.WPF.Asset.g.resources
+C:\Users\LYH\Desktop\SoftLibs\XG.Framework.01Config\BaseFramework.WPF.Asset\obj\Debug\BaseFramework.WPF.Asset.Properties.Resources.resources
+C:\Users\LYH\Desktop\SoftLibs\XG.Framework.01Config\BaseFramework.WPF.Asset\obj\Debug\BaseFramework.WPF.Asset.csproj.GenerateResource.cache
+C:\Users\LYH\Desktop\SoftLibs\XG.Framework.01Config\BaseFramework.WPF.Asset\obj\Debug\BaseFramework.WPF.Asset.csproj.CoreCompileInputs.cache
+C:\Users\LYH\Desktop\SoftLibs\XG.Framework.01Config\BaseFramework.WPF.Asset\obj\Debug\BaseFramework.WPF.Asset.dll
+C:\Users\LYH\Desktop\SoftLibs\XG.Framework.01Config\BaseFramework.WPF.Asset\obj\Debug\BaseFramework.WPF.Asset.pdb

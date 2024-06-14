@@ -1,0 +1,705 @@
+E/NO_TAG   [02-22 12:40:27.259 pid:29304 tid:31276] (InitTcpLocalProtocol:129)gRecvInfoEdge[0].flag = 0
+E/SR7Link  [02-22 12:40:27.386 pid:29304 tid:31276] (SR7IF_EthernetOpen:67)DeviceId:0, ip:192:168:0:14, ret:0
+E/SR7Link  [02-22 12:40:27.387 pid:29304 tid:31276] (SR7IF_ProfileData_XPitch:171)DeviceId:0 ret:0.012000
+E/SR7Link  [02-22 12:40:27.387 pid:29304 tid:31276] (SR7IF_ProfileDataWidth:163)DeviceId:0 ret:3200
+E/SR7Link  [02-22 12:40:27.387 pid:29304 tid:31276] (SR7IF_ProfilePointSetCount:156)DeviceId:0 ret:1000
+E/SR7Link  [02-22 12:40:27.388 pid:29304 tid:31276] (SR7IF_GetOnlineCameraB:85)DeviceId:0, ret:-982
+E/SR7Link  [02-22 12:40:27.411 pid:29304 tid:31276] (SR7IF_SetBatchOneTimeDataHandler:397)DeviceId:0 pCallFunc:0xed9442ac ret:0
+E/NO_TAG   [02-22 13:34:10.146 pid:23312 tid:22012] (InitTcpLocalProtocol:129)gRecvInfoEdge[0].flag = 0
+E/SR7Link  [02-22 13:34:10.275 pid:23312 tid:22012] (SR7IF_EthernetOpen:67)DeviceId:0, ip:192:168:0:14, ret:0
+E/SR7Link  [02-22 13:34:10.275 pid:23312 tid:22012] (SR7IF_ProfileData_XPitch:171)DeviceId:0 ret:0.012000
+E/SR7Link  [02-22 13:34:10.275 pid:23312 tid:22012] (SR7IF_ProfileDataWidth:163)DeviceId:0 ret:3200
+E/SR7Link  [02-22 13:34:10.276 pid:23312 tid:22012] (SR7IF_ProfilePointSetCount:156)DeviceId:0 ret:1000
+E/SR7Link  [02-22 13:34:10.276 pid:23312 tid:22012] (SR7IF_GetOnlineCameraB:85)DeviceId:0, ret:-982
+E/SR7Link  [02-22 13:34:10.291 pid:23312 tid:22012] (SR7IF_SetBatchOneTimeDataHandler:397)DeviceId:0 pCallFunc:0x38c14dec ret:0
+E/NO_TAG   [02-22 14:15:39.024 pid:30124 tid:27356] (InitTcpLocalProtocol:129)gRecvInfoEdge[0].flag = 0
+E/SR7Link  [02-22 14:15:39.153 pid:30124 tid:27356] (SR7IF_EthernetOpen:67)DeviceId:0, ip:192:168:0:14, ret:0
+E/SR7Link  [02-22 14:15:39.153 pid:30124 tid:27356] (SR7IF_ProfileData_XPitch:171)DeviceId:0 ret:0.012000
+E/SR7Link  [02-22 14:15:39.153 pid:30124 tid:27356] (SR7IF_ProfileDataWidth:163)DeviceId:0 ret:3200
+E/SR7Link  [02-22 14:15:39.154 pid:30124 tid:27356] (SR7IF_ProfilePointSetCount:156)DeviceId:0 ret:1000
+E/SR7Link  [02-22 14:15:39.154 pid:30124 tid:27356] (SR7IF_GetOnlineCameraB:85)DeviceId:0, ret:-982
+E/SR7Link  [02-22 14:15:39.172 pid:30124 tid:27356] (SR7IF_SetBatchOneTimeDataHandler:397)DeviceId:0 pCallFunc:0x69eb42fc ret:0
+E/SR7Link  [02-22 14:16:02.313 pid:30124 tid:27356] (SR7IF_GetInputPortLevel:296)DeviceId:0 Port:2, pLevel:0x0(1), ret:0
+E/SR7Link  [02-22 14:19:02.734 pid:30124 tid:27356] (SR7IF_GetInputPortLevel:296)DeviceId:0 Port:1, pLevel:0x0(1), ret:0
+E/NO_TAG   [02-22 14:32:02.390 pid:30632 tid:18136] (InitTcpLocalProtocol:129)gRecvInfoEdge[0].flag = 0
+E/SR7Link  [02-22 14:32:02.517 pid:30632 tid:18136] (SR7IF_EthernetOpen:67)DeviceId:0, ip:192:168:0:14, ret:0
+E/SR7Link  [02-22 14:32:02.517 pid:30632 tid:18136] (SR7IF_ProfileData_XPitch:171)DeviceId:0 ret:0.012000
+E/SR7Link  [02-22 14:32:02.517 pid:30632 tid:18136] (SR7IF_ProfileDataWidth:163)DeviceId:0 ret:3200
+E/SR7Link  [02-22 14:32:02.518 pid:30632 tid:18136] (SR7IF_ProfilePointSetCount:156)DeviceId:0 ret:1000
+E/SR7Link  [02-22 14:32:02.518 pid:30632 tid:18136] (SR7IF_GetOnlineCameraB:85)DeviceId:0, ret:-982
+E/SR7Link  [02-22 14:32:02.536 pid:30632 tid:18136] (SR7IF_SetBatchOneTimeDataHandler:397)DeviceId:0 pCallFunc:0xe9344b6c ret:0
+E/SR7Link  [02-22 14:32:18.309 pid:30632 tid:18136] (SR7IF_GetInputPortLevel:296)DeviceId:0 Port:1, pLevel:0x0(1), ret:0
+E/NO_TAG   [02-22 14:36:58.889 pid:23704 tid:30024] (InitTcpLocalProtocol:129)gRecvInfoEdge[0].flag = 0
+E/SR7Link  [02-22 14:36:59.013 pid:23704 tid:30024] (SR7IF_EthernetOpen:67)DeviceId:0, ip:192:168:0:14, ret:0
+E/SR7Link  [02-22 14:36:59.013 pid:23704 tid:30024] (SR7IF_ProfileData_XPitch:171)DeviceId:0 ret:0.012000
+E/SR7Link  [02-22 14:36:59.014 pid:23704 tid:30024] (SR7IF_ProfileDataWidth:163)DeviceId:0 ret:3200
+E/SR7Link  [02-22 14:36:59.014 pid:23704 tid:30024] (SR7IF_ProfilePointSetCount:156)DeviceId:0 ret:1000
+E/SR7Link  [02-22 14:36:59.014 pid:23704 tid:30024] (SR7IF_GetOnlineCameraB:85)DeviceId:0, ret:-982
+E/SR7Link  [02-22 14:36:59.035 pid:23704 tid:30024] (SR7IF_SetBatchOneTimeDataHandler:397)DeviceId:0 pCallFunc:0xe9cc475c ret:0
+E/SR7Link  [02-22 14:37:52.233 pid:23704 tid:30024] (SR7IF_GetInputPortLevel:296)DeviceId:0 Port:2, pLevel:0x0(1), ret:0
+E/NO_TAG   [02-22 14:45:32.795 pid:30576 tid:29508] (InitTcpLocalProtocol:129)gRecvInfoEdge[0].flag = 0
+E/SR7Link  [02-22 14:45:32.924 pid:30576 tid:29508] (SR7IF_EthernetOpen:67)DeviceId:0, ip:192:168:0:14, ret:0
+E/SR7Link  [02-22 14:45:32.924 pid:30576 tid:29508] (SR7IF_ProfileData_XPitch:171)DeviceId:0 ret:0.012000
+E/SR7Link  [02-22 14:45:32.924 pid:30576 tid:29508] (SR7IF_ProfileDataWidth:163)DeviceId:0 ret:3200
+E/SR7Link  [02-22 14:45:32.925 pid:30576 tid:29508] (SR7IF_ProfilePointSetCount:156)DeviceId:0 ret:1000
+E/SR7Link  [02-22 14:45:32.925 pid:30576 tid:29508] (SR7IF_GetOnlineCameraB:85)DeviceId:0, ret:-982
+E/SR7Link  [02-22 14:45:32.943 pid:30576 tid:29508] (SR7IF_SetBatchOneTimeDataHandler:397)DeviceId:0 pCallFunc:0xda104a2c ret:0
+E/SR7Link  [02-22 14:45:49.529 pid:30576 tid:29508] (SR7IF_GetInputPortLevel:296)DeviceId:0 Port:1, pLevel:0xc1255dc0(1), ret:0
+E/NO_TAG   [02-22 15:05:27.054 pid:27708 tid:28044] (InitTcpLocalProtocol:129)gRecvInfoEdge[0].flag = 0
+E/SR7Link  [02-22 15:05:27.179 pid:27708 tid:28044] (SR7IF_EthernetOpen:67)DeviceId:0, ip:192:168:0:14, ret:0
+E/SR7Link  [02-22 15:05:27.179 pid:27708 tid:28044] (SR7IF_ProfileData_XPitch:171)DeviceId:0 ret:0.012000
+E/SR7Link  [02-22 15:05:27.179 pid:27708 tid:28044] (SR7IF_ProfileDataWidth:163)DeviceId:0 ret:3200
+E/SR7Link  [02-22 15:05:27.180 pid:27708 tid:28044] (SR7IF_ProfilePointSetCount:156)DeviceId:0 ret:1000
+E/SR7Link  [02-22 15:05:27.180 pid:27708 tid:28044] (SR7IF_GetOnlineCameraB:85)DeviceId:0, ret:-982
+E/SR7Link  [02-22 15:05:27.199 pid:27708 tid:28044] (SR7IF_SetBatchOneTimeDataHandler:397)DeviceId:0 pCallFunc:0xb29f434c ret:0
+E/NO_TAG   [02-22 15:06:21.514 pid:28992 tid:6016] (InitTcpLocalProtocol:129)gRecvInfoEdge[0].flag = 0
+E/SR7Link  [02-22 15:06:21.641 pid:28992 tid:6016] (SR7IF_EthernetOpen:67)DeviceId:0, ip:192:168:0:14, ret:0
+E/SR7Link  [02-22 15:06:21.641 pid:28992 tid:6016] (SR7IF_ProfileData_XPitch:171)DeviceId:0 ret:0.012000
+E/SR7Link  [02-22 15:06:21.641 pid:28992 tid:6016] (SR7IF_ProfileDataWidth:163)DeviceId:0 ret:3200
+E/SR7Link  [02-22 15:06:21.642 pid:28992 tid:6016] (SR7IF_ProfilePointSetCount:156)DeviceId:0 ret:1000
+E/SR7Link  [02-22 15:06:21.642 pid:28992 tid:6016] (SR7IF_GetOnlineCameraB:85)DeviceId:0, ret:-982
+E/SR7Link  [02-22 15:06:21.660 pid:28992 tid:6016] (SR7IF_SetBatchOneTimeDataHandler:397)DeviceId:0 pCallFunc:0x6fd242fc ret:0
+E/SR7Link  [02-22 15:06:33.265 pid:28992 tid:6016] (SR7IF_GetInputPortLevel:296)DeviceId:0 Port:1, pLevel:0x56ddd3a0(1), ret:0
+E/NO_TAG   [02-22 16:45:18.119 pid:30768 tid:18020] (InitTcpLocalProtocol:129)gRecvInfoEdge[0].flag = 0
+E/SR7Link  [02-22 16:45:18.247 pid:30768 tid:18020] (SR7IF_EthernetOpen:67)DeviceId:0, ip:192:168:0:14, ret:0
+E/SR7Link  [02-22 16:45:18.249 pid:30768 tid:18020] (SR7IF_ProfileData_XPitch:171)DeviceId:0 ret:0.012000
+E/SR7Link  [02-22 16:45:18.250 pid:30768 tid:18020] (SR7IF_ProfileDataWidth:163)DeviceId:0 ret:3200
+E/SR7Link  [02-22 16:45:18.251 pid:30768 tid:18020] (SR7IF_ProfilePointSetCount:156)DeviceId:0 ret:1000
+E/SR7Link  [02-22 16:45:18.251 pid:30768 tid:18020] (SR7IF_GetOnlineCameraB:85)DeviceId:0, ret:-982
+E/SR7Link  [02-22 16:45:18.272 pid:30768 tid:18020] (SR7IF_SetBatchOneTimeDataHandler:397)DeviceId:0 pCallFunc:0xa51849dc ret:0
+E/SR7Link  [02-22 16:45:19.145 pid:30768 tid:18020] (SR7IF_StartMeasureWithCallback:403)In, lDeviceId:0 IOTrigger:1
+E/SR7Link  [02-22 16:45:19.152 pid:30768 tid:18020] (SR7IF_StartMeasureWithCallback:407)DeviceId:0 ret:0 [register]Batch: Start[IO(0) soft(12)] stop[IO(0) soft(0)]   IOTimes[Start:0 Stop:0]
+E/SR7Link  [02-22 16:45:20.884 pid:30768 tid:18020] (SR7IF_TriggerOneBatch:445)DeviceId:0 ret:0
+E/SR7Link  [02-22 16:45:22.532 pid:30768 tid:30480] (LearnLmiBatchRun:9141)lDeviceId:0 CallBack xNum:3200 Points:1000 BatchTimes:13 xPixth:0.012000 startEncoder:2147483648 HeadNumber:1 ret:0  DLL version:3.3.2.81
+E/SR7Link  [02-22 16:45:22.535 pid:30768 tid:30480] (LearnLmiBatchRun:9142)DeviceId:0 ret:0 [register]Batch: Start[IO(0) soft(13)] stop[IO(0) soft(0) Normal(11)] IOTimes[Start:0 Stop:0] Encoder[2147483648,2147483648,2147483648,2147483648,2147483648 ... 2147483648,2147483648,2147483648,2147483648,2147483648]
+E/SR7Link  [02-22 16:45:22.538 pid:30768 tid:30480] (SR7IF_GetBatchProfilePoint:415)DeviceId:0 Head:0
+E/SR7Link  [02-22 16:45:22.538 pid:30768 tid:30480] (SR7IF_GetBatchEncoderPoint:436)DeviceId:0 Head:0
+E/SR7Link  [02-22 16:45:22.539 pid:30768 tid:30480] (SR7IF_GetBatchIntensityPoint:425)DeviceId:0 Head:0
+E/SR7Link  [02-22 16:45:40.879 pid:30768 tid:18020] (SR7IF_TriggerOneBatch:445)DeviceId:0 ret:0
+E/SR7Link  [02-22 16:45:42.529 pid:30768 tid:30480] (LearnLmiBatchRun:9141)lDeviceId:0 CallBack xNum:3200 Points:1000 BatchTimes:14 xPixth:0.012000 startEncoder:2147483648 HeadNumber:1 ret:0  DLL version:3.3.2.81
+E/SR7Link  [02-22 16:45:42.531 pid:30768 tid:30480] (LearnLmiBatchRun:9142)DeviceId:0 ret:0 [register]Batch: Start[IO(0) soft(14)] stop[IO(0) soft(0) Normal(12)] IOTimes[Start:0 Stop:0] Encoder[2147483648,2147483648,2147483648,2147483648,2147483648 ... 2147483648,2147483648,2147483648,2147483648,2147483648]
+E/SR7Link  [02-22 16:45:42.531 pid:30768 tid:30480] (SR7IF_GetBatchProfilePoint:415)DeviceId:0 Head:0
+E/SR7Link  [02-22 16:45:42.531 pid:30768 tid:30480] (SR7IF_GetBatchEncoderPoint:436)DeviceId:0 Head:0
+E/SR7Link  [02-22 16:45:42.533 pid:30768 tid:30480] (SR7IF_GetBatchIntensityPoint:425)DeviceId:0 Head:0
+E/SR7Link  [02-22 16:45:48.736 pid:30768 tid:18020] (SR7IF_GetOnlineCameraB:85)DeviceId:0, ret:-982
+E/NO_TAG   [02-22 18:24:33.731 pid:11388 tid:16160] (InitTcpLocalProtocol:129)gRecvInfoEdge[0].flag = 0
+E/SR7Link  [02-22 18:24:33.858 pid:11388 tid:16160] (SR7IF_EthernetOpen:67)DeviceId:0, ip:192:168:0:14, ret:0
+E/SR7Link  [02-22 18:24:33.858 pid:11388 tid:16160] (SR7IF_ProfileData_XPitch:171)DeviceId:0 ret:0.012000
+E/SR7Link  [02-22 18:24:33.859 pid:11388 tid:16160] (SR7IF_ProfileDataWidth:163)DeviceId:0 ret:3200
+E/SR7Link  [02-22 18:24:33.859 pid:11388 tid:16160] (SR7IF_ProfilePointSetCount:156)DeviceId:0 ret:1000
+E/SR7Link  [02-22 18:24:33.859 pid:11388 tid:16160] (SR7IF_GetOnlineCameraB:85)DeviceId:0, ret:-982
+E/SR7Link  [02-22 18:24:33.880 pid:11388 tid:16160] (SR7IF_SetBatchOneTimeDataHandler:397)DeviceId:0 pCallFunc:0xf494439c ret:0
+E/SR7Link  [02-22 18:24:36.483 pid:11388 tid:19624] (SR7IF_SetBatchRollProfilePoint:243)DeviceId:0 points:0 ret:0
+E/SR7Link  [02-22 18:24:36.483 pid:11388 tid:19624] (SR7IF_ProfileDataWidth:163)DeviceId:0 ret:3200
+E/SR7Link  [02-22 18:24:36.511 pid:11388 tid:19624] (SR7IF_StartMeasure:98)In, lDeviceId:0 Timeout:20000
+E/SR7Link  [02-22 18:24:36.517 pid:11388 tid:19624] (SR7IF_StartMeasure:101)DeviceId:0 ret:0 [register]Batch: Start[IO(0) soft(15)] stop[IO(0) soft(0)]   IOTimes[Start:0 Stop:0]
+E/SR7Link  [02-22 18:24:43.259 pid:11388 tid:19624] (SR7IF_GetBatchRollData:253)DeviceId:0 pProfile:0xeff531d8, pIntensity:0xebf3ccf8, pEncoder:0xdb964918, pFrameId:0xdb960a20, pFrameLoss:0xdb95ee18, GetCnt:500 ret:-985
+E/SR7Link  [02-22 18:24:43.260 pid:11388 tid:19624] (SR7IF_GetBatchRollError:262)DeviceId:0 pEthErrCnt:0xdbdc3728 pUserErrCnt:0xdbdc3748 ret:0
+E/NO_TAG   [02-22 18:25:13.337 pid:11388 tid:29448] (readLocalTcp:297)Read TIMEOUT @time 3130, timeout:3,130000
+E/NO_TAG   [02-22 18:25:13.337 pid:11388 tid:29448] (RecvDataAndDealData:1035)readLocalTcp fd:1672 ret:-2 readed:265704 waitNum:3205662 timeout:8000 timeoutTimes:0 buf:0xfda0a040
+E/NO_TAG   [02-22 18:25:13.337 pid:11388 tid:29448] (RecvDataAndDealData:1043)readLocalTcp err fd:1672 ret:-2 readed:265704 waitNum:3205662 timeout:8000 timeoutTimes:0
+E/NO_TAG   [02-22 18:25:15.611 pid:11388 tid:29448] (readLocalTcp:313)Read Err -1 1672 10054 ReadTimeout:8000
+E/NO_TAG   [02-22 18:25:15.611 pid:11388 tid:29448] (readLocalTcp:313)Read Err -1 1672 10054 ReadTimeout:8000
+E/NO_TAG   [02-22 18:25:15.611 pid:11388 tid:29448] (readLocalTcp:313)Read Err -1 1672 10054 ReadTimeout:8000
+E/NO_TAG   [02-22 18:25:15.611 pid:11388 tid:29448] (CmdRequestBlockLarger:214)i:0 CmdRequestBlockLarger BlockingRecvData err -2,[0x202 0x9] netDataKind:2 SendLen:32 iDeviceId:0
+E/NO_TAG   [02-22 18:26:59.064 pid:11388 tid:16160] (TcpLocalSend:436)writeLocalTcp err ret: -1 fd:2200 [0x203 0x43] len:40 p_SendData == NULL [0].flag err. 0
+E/NO_TAG   [02-22 18:26:59.064 pid:11388 tid:16160] (CmdRequestBlock:124)i:0 CmdRequestBlock TcpLocalSend err -1,[0x203 0x43] netDataKind:0 SendLen:40 iDeviceId:0
+E/NO_TAG   [02-22 18:26:59.070 pid:11388 tid:16160] (TcpLocalSend:436)writeLocalTcp err ret: -1 fd:2200 [0x203 0x43] len:40 p_SendData == NULL [0].flag err. 0
+E/NO_TAG   [02-22 18:26:59.070 pid:11388 tid:16160] (CmdRequestBlock:124)i:0 CmdRequestBlock TcpLocalSend err -1,[0x203 0x43] netDataKind:0 SendLen:40 iDeviceId:0
+E/NO_TAG   [02-22 18:26:59.085 pid:11388 tid:16160] (TcpErr:10)TcpErr ret:-1
+E/NO_TAG   [02-22 18:26:59.085 pid:11388 tid:16160] (SRRequestBlock:164)CmdRequestBlock err:-1
+E/NO_TAG   [02-22 18:26:59.085 pid:11388 tid:16160] (SetCaptureEnable:481)CmdRequestBlock Err : -1
+E/SR7Link  [02-22 18:26:59.085 pid:11388 tid:16160] (SR7IF_StopMeasure:119)DeviceId:0 ret:0
+E/NO_TAG   [02-22 18:26:59.090 pid:11388 tid:16160] (TcpLocalSend:436)writeLocalTcp err ret: -1 fd:2200 [0x203 0x43] len:40 p_SendData == NULL [0].flag err. 0
+E/NO_TAG   [02-22 18:26:59.090 pid:11388 tid:16160] (CmdRequestBlock:124)i:0 CmdRequestBlock TcpLocalSend err -1,[0x203 0x43] netDataKind:0 SendLen:40 iDeviceId:0
+E/NO_TAG   [02-22 18:26:59.100 pid:11388 tid:16160] (TcpLocalSend:436)writeLocalTcp err ret: -1 fd:2200 [0x203 0x43] len:40 p_SendData == NULL [0].flag err. 0
+E/NO_TAG   [02-22 18:26:59.100 pid:11388 tid:16160] (CmdRequestBlock:124)i:0 CmdRequestBlock TcpLocalSend err -1,[0x203 0x43] netDataKind:0 SendLen:40 iDeviceId:0
+E/NO_TAG   [02-22 18:26:59.115 pid:11388 tid:16160] (TcpErr:10)TcpErr ret:-1
+E/NO_TAG   [02-22 18:26:59.115 pid:11388 tid:16160] (SRRequestBlock:164)CmdRequestBlock err:-1
+E/NO_TAG   [02-22 18:26:59.115 pid:11388 tid:16160] (SetCaptureEnable:481)CmdRequestBlock Err : -1
+E/SR7Link  [02-22 18:26:59.126 pid:11388 tid:16160] (SR7IF_CommClose:78)DeviceId:0, ret:0
+E/NO_TAG   [02-22 18:27:00.814 pid:11388 tid:16160] (SRRequestTcpRelease:72)iDeviceId:0, CmdReleaseTcpCommonSocket err:-5
+E/NO_TAG   [02-22 18:27:00.814 pid:11388 tid:16160] (DestroyProject:55)TCP Destroy err! -5
+E/NO_TAG   [02-22 18:27:00.824 pid:11388 tid:16160] (InitTcpLocalProtocol:129)gRecvInfoEdge[0].flag = 0
+E/SR7Link  [02-22 18:27:00.949 pid:11388 tid:16160] (SR7IF_EthernetOpen:67)DeviceId:0, ip:192:168:0:14, ret:0
+E/SR7Link  [02-22 18:27:00.949 pid:11388 tid:16160] (SR7IF_ProfileData_XPitch:171)DeviceId:0 ret:0.012000
+E/SR7Link  [02-22 18:27:00.949 pid:11388 tid:16160] (SR7IF_ProfileDataWidth:163)DeviceId:0 ret:3200
+E/SR7Link  [02-22 18:27:00.950 pid:11388 tid:16160] (SR7IF_ProfilePointSetCount:156)DeviceId:0 ret:1000
+E/SR7Link  [02-22 18:27:00.950 pid:11388 tid:16160] (SR7IF_GetOnlineCameraB:85)DeviceId:0, ret:-982
+E/SR7Link  [02-22 18:27:03.305 pid:11388 tid:18504] (SR7IF_SetBatchRollProfilePoint:243)DeviceId:0 points:0 ret:0
+E/SR7Link  [02-22 18:27:03.305 pid:11388 tid:18504] (SR7IF_ProfileDataWidth:163)DeviceId:0 ret:3200
+E/SR7Link  [02-22 18:27:03.333 pid:11388 tid:18504] (SR7IF_StartMeasure:98)In, lDeviceId:0 Timeout:20000
+E/SR7Link  [02-22 18:27:03.338 pid:11388 tid:18504] (SR7IF_StartMeasure:101)DeviceId:0 ret:0 [register]Batch: Start[IO(0) soft(16)] stop[IO(0) soft(1)]   IOTimes[Start:0 Stop:0]
+E/SR7Link  [02-22 18:27:40.627 pid:11388 tid:18504] (SR7IF_GetBatchRollData:253)DeviceId:0 pProfile:0x8afb58a0, pIntensity:0x8bbea8d8, pEncoder:0xdb972028, pFrameId:0xdb96e460, pFrameLoss:0xdb96d4a8, GetCnt:500 ret:-985
+E/SR7Link  [02-22 18:27:40.627 pid:11388 tid:18504] (SR7IF_GetBatchRollError:262)DeviceId:0 pEthErrCnt:0xdbd61208 pUserErrCnt:0xdbd61228 ret:0
+E/SR7Link  [02-22 18:31:27.976 pid:11388 tid:2916] (SR7IF_SetBatchRollProfilePoint:243)DeviceId:0 points:0 ret:0
+E/SR7Link  [02-22 18:31:27.976 pid:11388 tid:2916] (SR7IF_ProfileDataWidth:163)DeviceId:0 ret:3200
+E/SR7Link  [02-22 18:31:27.976 pid:11388 tid:2916] (SR7IF_StartMeasure:98)In, lDeviceId:0 Timeout:20000
+E/SR7Link  [02-22 18:31:27.978 pid:11388 tid:2916] (SR7IF_StartMeasure:101)DeviceId:0 ret:0 [register]Batch: Start[IO(0) soft(17)] stop[IO(0) soft(1)]   IOTimes[Start:0 Stop:0]
+E/SR7Link  [02-22 18:35:58.076 pid:11388 tid:2916] (SR7IF_GetBatchRollData:253)DeviceId:0 pProfile:0xed7a6d30, pIntensity:0xee3dbd68, pEncoder:0xdbb80468, pFrameId:0xdb968e00, pFrameLoss:0xdb967e48, GetCnt:500 ret:-988
+E/SR7Link  [02-22 18:35:58.076 pid:11388 tid:2916] (SR7IF_GetBatchRollError:262)DeviceId:0 pEthErrCnt:0xdba36a28 pUserErrCnt:0xdba36a48 ret:0
+E/SR7Link  [02-22 18:35:58.076 pid:11388 tid:16160] (SR7IF_StopMeasure:119)DeviceId:0 ret:0
+E/SR7Link  [02-22 18:35:58.135 pid:11388 tid:16160] (SR7IF_CommClose:78)DeviceId:0, ret:0
+E/NO_TAG   [02-22 18:43:24.913 pid:32488 tid:29160] (InitTcpLocalProtocol:129)gRecvInfoEdge[0].flag = 0
+E/SR7Link  [02-22 18:43:25.038 pid:32488 tid:29160] (SR7IF_EthernetOpen:67)DeviceId:0, ip:192:168:0:14, ret:0
+E/SR7Link  [02-22 18:43:25.038 pid:32488 tid:29160] (SR7IF_ProfileData_XPitch:171)DeviceId:0 ret:0.012000
+E/SR7Link  [02-22 18:43:25.038 pid:32488 tid:29160] (SR7IF_ProfileDataWidth:163)DeviceId:0 ret:3200
+E/SR7Link  [02-22 18:43:25.039 pid:32488 tid:29160] (SR7IF_ProfilePointSetCount:156)DeviceId:0 ret:1000
+E/SR7Link  [02-22 18:43:25.039 pid:32488 tid:29160] (SR7IF_GetOnlineCameraB:85)DeviceId:0, ret:-982
+E/SR7Link  [02-22 18:43:25.057 pid:32488 tid:29160] (SR7IF_SetBatchOneTimeDataHandler:397)DeviceId:0 pCallFunc:0xbc4f4b1c ret:0
+E/SR7Link  [02-22 18:43:36.448 pid:32488 tid:32544] (SR7IF_SetBatchRollProfilePoint:243)DeviceId:0 points:0 ret:0
+E/SR7Link  [02-22 18:43:36.448 pid:32488 tid:32544] (SR7IF_ProfileDataWidth:163)DeviceId:0 ret:3200
+E/SR7Link  [02-22 18:43:36.475 pid:32488 tid:32544] (SR7IF_StartMeasure:98)In, lDeviceId:0 Timeout:20000
+E/SR7Link  [02-22 18:43:36.481 pid:32488 tid:32544] (SR7IF_StartMeasure:101)DeviceId:0 ret:0 [register]Batch: Start[IO(0) soft(18)] stop[IO(0) soft(2)]   IOTimes[Start:0 Stop:0]
+E/SR7Link  [02-22 18:43:37.004 pid:32488 tid:32544] (SR7IF_GetBatchRollData:253)DeviceId:0 pProfile:0xb7a831d8, pIntensity:0xb3a6ccf8, pEncoder:0xa34991e8, pFrameId:0xa3453fb0, pFrameLoss:0xa344a8b8, GetCnt:500 ret:-985
+E/SR7Link  [02-22 18:43:37.005 pid:32488 tid:32544] (SR7IF_GetBatchRollError:262)DeviceId:0 pEthErrCnt:0xa3a4d5c0 pUserErrCnt:0xa3a4d5e0 ret:0
+E/SR7Link  [02-22 18:43:44.924 pid:32488 tid:21116] (SR7IF_SetBatchRollProfilePoint:243)DeviceId:0 points:0 ret:0
+E/SR7Link  [02-22 18:43:44.924 pid:32488 tid:21116] (SR7IF_ProfileDataWidth:163)DeviceId:0 ret:3200
+E/SR7Link  [02-22 18:43:44.924 pid:32488 tid:21116] (SR7IF_StartMeasure:98)In, lDeviceId:0 Timeout:20000
+E/SR7Link  [02-22 18:43:44.937 pid:32488 tid:21116] (SR7IF_StartMeasure:101)DeviceId:0 ret:0 [register]Batch: Start[IO(4294967295) soft(19)] stop[IO(0) soft(3)]   IOTimes[Start:0 Stop:0]
+E/SR7Link  [02-22 18:44:35.076 pid:32488 tid:21116] (SR7IF_GetBatchRollData:253)DeviceId:0 pProfile:0xba53ca80, pIntensity:0xb3d7a130, pEncoder:0xa34abd00, pFrameId:0xa349d1a0, pFrameLoss:0xa34a8dc0, GetCnt:500 ret:-988
+E/SR7Link  [02-22 18:44:35.076 pid:32488 tid:21116] (SR7IF_GetBatchRollError:262)DeviceId:0 pEthErrCnt:0xa370f880 pUserErrCnt:0xa370f8a0 ret:0
+E/SR7Link  [02-22 18:44:35.076 pid:32488 tid:29160] (SR7IF_StopMeasure:119)DeviceId:0 ret:0
+E/SR7Link  [02-22 18:44:35.150 pid:32488 tid:29160] (SR7IF_CommClose:78)DeviceId:0, ret:0
+E/NO_TAG   [02-26 16:04:46.841 pid:23776 tid:20500] (InitTcpLocalProtocol:129)gRecvInfoEdge[0].flag = 0
+E/SR7Link  [02-26 16:04:46.970 pid:23776 tid:20500] (SR7IF_EthernetOpen:67)DeviceId:0, ip:192:168:0:14, ret:0
+E/SR7Link  [02-26 16:04:46.970 pid:23776 tid:20500] (SR7IF_ProfileData_XPitch:171)DeviceId:0 ret:0.012000
+E/SR7Link  [02-26 16:04:46.972 pid:23776 tid:20500] (SR7IF_ProfileDataWidth:163)DeviceId:0 ret:3200
+E/SR7Link  [02-26 16:04:46.972 pid:23776 tid:20500] (SR7IF_ProfilePointSetCount:156)DeviceId:0 ret:1000
+E/SR7Link  [02-26 16:04:46.972 pid:23776 tid:20500] (SR7IF_GetOnlineCameraB:85)DeviceId:0, ret:-982
+E/SR7Link  [02-26 16:04:46.990 pid:23776 tid:20500] (SR7IF_SetBatchOneTimeDataHandler:397)DeviceId:0 pCallFunc:0xd89447ac ret:0
+E/SR7Link  [02-26 16:04:51.661 pid:23776 tid:20500] (SR7IF_GetOnlineCameraB:85)DeviceId:0, ret:-982
+E/SR7Link  [02-26 16:04:51.663 pid:23776 tid:20500] (SR7IF_GetSingleProfile:319)DeviceId:0 pProfileData:0xc0751ff8, pEncoder:0xc0366538, ret:0
+E/NO_TAG   [02-26 16:13:00.087 pid:25964 tid:2404] (InitTcpLocalProtocol:129)gRecvInfoEdge[0].flag = 0
+E/SR7Link  [02-26 16:13:00.213 pid:25964 tid:2404] (SR7IF_EthernetOpen:67)DeviceId:0, ip:192:168:0:14, ret:0
+E/SR7Link  [02-26 16:13:00.213 pid:25964 tid:2404] (SR7IF_ProfileData_XPitch:171)DeviceId:0 ret:0.012000
+E/SR7Link  [02-26 16:13:00.213 pid:25964 tid:2404] (SR7IF_ProfileDataWidth:163)DeviceId:0 ret:3200
+E/SR7Link  [02-26 16:13:00.214 pid:25964 tid:2404] (SR7IF_ProfilePointSetCount:156)DeviceId:0 ret:1000
+E/SR7Link  [02-26 16:13:00.214 pid:25964 tid:2404] (SR7IF_GetOnlineCameraB:85)DeviceId:0, ret:-982
+E/SR7Link  [02-26 16:13:00.233 pid:25964 tid:2404] (SR7IF_SetBatchOneTimeDataHandler:397)DeviceId:0 pCallFunc:0xfe52416c ret:0
+E/SR7Link  [02-26 16:13:01.459 pid:25964 tid:2404] (SR7IF_GetOnlineCameraB:85)DeviceId:0, ret:-982
+E/SR7Link  [02-26 16:13:01.460 pid:25964 tid:2404] (SR7IF_GetSingleProfile:319)DeviceId:0 pProfileData:0xe559e5e8, pEncoder:0xe559e5b0, ret:0
+E/NO_TAG   [02-26 16:14:43.994 pid:26108 tid:18288] (InitTcpLocalProtocol:129)gRecvInfoEdge[0].flag = 0
+E/SR7Link  [02-26 16:14:44.122 pid:26108 tid:18288] (SR7IF_EthernetOpen:67)DeviceId:0, ip:192:168:0:14, ret:0
+E/SR7Link  [02-26 16:14:44.123 pid:26108 tid:18288] (SR7IF_ProfileData_XPitch:171)DeviceId:0 ret:0.012000
+E/SR7Link  [02-26 16:14:44.123 pid:26108 tid:18288] (SR7IF_ProfileDataWidth:163)DeviceId:0 ret:3200
+E/SR7Link  [02-26 16:14:44.124 pid:26108 tid:18288] (SR7IF_ProfilePointSetCount:156)DeviceId:0 ret:1000
+E/SR7Link  [02-26 16:14:44.124 pid:26108 tid:18288] (SR7IF_GetOnlineCameraB:85)DeviceId:0, ret:-982
+E/SR7Link  [02-26 16:14:44.144 pid:26108 tid:18288] (SR7IF_SetBatchOneTimeDataHandler:397)DeviceId:0 pCallFunc:0x740e466c ret:0
+E/SR7Link  [02-26 16:14:49.471 pid:26108 tid:18288] (SR7IF_GetOnlineCameraB:85)DeviceId:0, ret:-982
+E/SR7Link  [02-26 16:14:57.897 pid:26108 tid:18288] (SR7IF_GetSingleProfile:319)DeviceId:0 pProfileData:0x5b2d8a20, pEncoder:0x5b2767d0, ret:0
+E/NO_TAG   [02-26 16:17:53.081 pid:24284 tid:3656] (InitTcpLocalProtocol:129)gRecvInfoEdge[0].flag = 0
+E/SR7Link  [02-26 16:17:53.209 pid:24284 tid:3656] (SR7IF_EthernetOpen:67)DeviceId:0, ip:192:168:0:14, ret:0
+E/SR7Link  [02-26 16:17:53.210 pid:24284 tid:3656] (SR7IF_ProfileData_XPitch:171)DeviceId:0 ret:0.012000
+E/SR7Link  [02-26 16:17:53.210 pid:24284 tid:3656] (SR7IF_ProfileDataWidth:163)DeviceId:0 ret:3200
+E/SR7Link  [02-26 16:17:53.210 pid:24284 tid:3656] (SR7IF_ProfilePointSetCount:156)DeviceId:0 ret:1000
+E/SR7Link  [02-26 16:17:53.210 pid:24284 tid:3656] (SR7IF_GetOnlineCameraB:85)DeviceId:0, ret:-982
+E/SR7Link  [02-26 16:17:53.228 pid:24284 tid:3656] (SR7IF_SetBatchOneTimeDataHandler:397)DeviceId:0 pCallFunc:0xf4634e3c ret:0
+E/SR7Link  [02-26 16:18:01.353 pid:24284 tid:3656] (SR7IF_StartMeasureWithCallback:403)In, lDeviceId:0 IOTrigger:1
+E/SR7Link  [02-26 16:18:01.359 pid:24284 tid:3656] (SR7IF_StartMeasureWithCallback:407)DeviceId:0 ret:0 [register]Batch: Start[IO(0) soft(20)] stop[IO(0) soft(4)]   IOTimes[Start:0 Stop:0]
+E/SR7Link  [02-26 16:18:03.442 pid:24284 tid:3656] (SR7IF_TriggerOneBatch:445)DeviceId:0 ret:0
+E/SR7Link  [02-26 16:18:03.958 pid:24284 tid:3224] (LearnLmiBatchRun:9141)lDeviceId:0 CallBack xNum:3200 Points:1000 BatchTimes:22 xPixth:0.012000 startEncoder:2147483648 HeadNumber:1 ret:0  DLL version:3.3.2.81
+E/SR7Link  [02-26 16:18:03.960 pid:24284 tid:3224] (LearnLmiBatchRun:9142)DeviceId:0 ret:0 [register]Batch: Start[IO(0) soft(21)] stop[IO(0) soft(4) Normal(14)] IOTimes[Start:0 Stop:0] Encoder[2147483648,2147483648,2147483648,2147483648,2147483648 ... 2147483648,2147483648,2147483648,2147483648,2147483648]
+E/SR7Link  [02-26 16:18:03.963 pid:24284 tid:3224] (SR7IF_GetBatchProfilePoint:415)DeviceId:0 Head:0
+E/SR7Link  [02-26 16:18:03.963 pid:24284 tid:3224] (SR7IF_GetBatchEncoderPoint:436)DeviceId:0 Head:0
+E/SR7Link  [02-26 16:18:03.964 pid:24284 tid:3224] (SR7IF_GetBatchIntensityPoint:425)DeviceId:0 Head:0
+E/SR7Link  [02-26 16:18:13.526 pid:24284 tid:24592] (SR7IF_SetBatchRollProfilePoint:243)DeviceId:0 points:0 ret:-983
+E/SR7Link  [02-26 16:18:32.211 pid:24284 tid:3656] (SR7IF_SetSetting:335)DeviceId:0 Type:16 Category:0 Item:16 pTarget:0x80414780 pData:0x80414820 DataSize:1 ret:0
+E/SR7Link  [02-26 16:18:36.240 pid:24284 tid:8268] (SR7IF_SetBatchRollProfilePoint:243)DeviceId:0 points:0 ret:0
+E/SR7Link  [02-26 16:18:36.240 pid:24284 tid:8268] (SR7IF_ProfileDataWidth:163)DeviceId:0 ret:3200
+E/SR7Link  [02-26 16:18:36.272 pid:24284 tid:8268] (SR7IF_StartMeasure:98)In, lDeviceId:0 Timeout:20000
+E/SR7Link  [02-26 16:18:36.283 pid:24284 tid:3224] (LearnLmiBatchRun:9184)lDeviceId:0 CallBack xNum:0 Points:0 BatchTimes:0 xPixth:0.000000 startEncoder:0 HeadNumber:1 ret:-100
+E/SR7Link  [02-26 16:18:36.285 pid:24284 tid:3224] (LearnLmiBatchRun:9185)DeviceId:0 ret:-100 [register]Batch: Start[IO(0) soft(21)] stop[IO(0) soft(4)]
+E/SR7Link  [02-26 16:18:36.291 pid:24284 tid:8268] (SR7IF_StartMeasure:101)DeviceId:0 ret:0 [register]Batch: Start[IO(0) soft(22)] stop[IO(0) soft(4)]   IOTimes[Start:0 Stop:0]
+E/SR7Link  [02-26 16:19:04.455 pid:24284 tid:8268] (SR7IF_GetBatchRollData:253)DeviceId:0 pProfile:0x9062ccf8, pIntensity:0x94950610, pEncoder:0x80047ae0, pFrameId:0x800285c8, pFrameLoss:0x8000a9e0, GetCnt:500 ret:-988
+E/SR7Link  [02-26 16:19:04.455 pid:24284 tid:8268] (SR7IF_GetBatchRollError:262)DeviceId:0 pEthErrCnt:0x80326080 pUserErrCnt:0x803260a0 ret:0
+E/SR7Link  [02-26 16:19:04.455 pid:24284 tid:3656] (SR7IF_StopMeasure:119)DeviceId:0 ret:0
+E/SR7Link  [02-26 16:19:04.525 pid:24284 tid:3656] (SR7IF_CommClose:78)DeviceId:0, ret:0
+E/NO_TAG   [02-27 11:11:11.348 pid:19828 tid:10600] (InitTcpLocalProtocol:129)gRecvInfoEdge[0].flag = 0
+E/SR7Link  [02-27 11:11:11.477 pid:19828 tid:10600] (SR7IF_EthernetOpenExt:94)DeviceId:0, ip:192:168:0:14, ret:0
+E/SR7Link  [02-27 11:11:11.477 pid:19828 tid:10600] (SR7IF_ProfileData_XPitch:206)DeviceId:0 ret:0.012000
+E/SR7Link  [02-27 11:11:11.478 pid:19828 tid:10600] (SR7IF_ProfileDataWidth:198)DeviceId:0 ret:3200
+E/SR7Link  [02-27 11:11:11.478 pid:19828 tid:10600] (SR7IF_ProfilePointSetCount:191)DeviceId:0 ret:1000
+E/SR7Link  [02-27 11:11:11.478 pid:19828 tid:10600] (SR7IF_GetOnlineCameraB:120)DeviceId:0, ret:-982
+E/SR7Link  [02-27 11:11:11.494 pid:19828 tid:10600] (SR7IF_SetBatchOneTimeDataHandler:495)DeviceId:0 pCallFunc:0xec2741bc ret:0
+E/NO_TAG   [02-27 11:11:20.547 pid:19828 tid:17244] (readLocalTcp:313)Read Err -1 2304 10054 ReadTimeout:1000
+E/NO_TAG   [02-27 11:11:20.547 pid:19828 tid:17244] (readLocalTcp:313)Read Err -1 2304 10054 ReadTimeout:1000
+E/NO_TAG   [02-27 11:11:20.547 pid:19828 tid:17244] (readLocalTcp:313)Read Err -1 2304 10054 ReadTimeout:1000
+E/NO_TAG   [02-27 11:11:20.547 pid:19828 tid:17244] (BlockingRecvData:509)RecvDataAndDealData -1
+E/NO_TAG   [02-27 11:11:20.547 pid:19828 tid:17244] (CmdRequestBlock:130)i:0 CmdRequestBlock BlockingRecvData err -1,[0x201 0xc] netDataKind:0 SendLen:0 iDeviceId:0
+E/NO_TAG   [02-27 11:11:20.552 pid:19828 tid:17244] (TcpLocalSend:436)writeLocalTcp err ret: -1 fd:2304 [0x201 0xc] len:0 p_SendData == NULL [0].flag err. 0
+E/NO_TAG   [02-27 11:11:20.552 pid:19828 tid:17244] (CmdRequestBlock:124)i:0 CmdRequestBlock TcpLocalSend err -1,[0x201 0xc] netDataKind:0 SendLen:0 iDeviceId:0
+E/NO_TAG   [02-27 11:11:20.567 pid:19828 tid:17244] (TcpLocalSend:436)writeLocalTcp err ret: -1 fd:2304 [0x201 0xc] len:0 p_SendData == NULL [0].flag err. 0
+E/NO_TAG   [02-27 11:11:20.567 pid:19828 tid:17244] (CmdRequestBlock:124)i:0 CmdRequestBlock TcpLocalSend err -1,[0x201 0xc] netDataKind:0 SendLen:0 iDeviceId:0
+E/NO_TAG   [02-27 11:11:20.582 pid:19828 tid:17244] (TcpLocalSend:436)writeLocalTcp err ret: -1 fd:2304 [0x201 0xc] len:0 p_SendData == NULL [0].flag err. 0
+E/NO_TAG   [02-27 11:11:20.582 pid:19828 tid:17244] (CmdRequestBlock:124)i:0 CmdRequestBlock TcpLocalSend err -1,[0x201 0xc] netDataKind:0 SendLen:0 iDeviceId:0
+E/NO_TAG   [02-27 11:11:20.597 pid:19828 tid:17244] (TcpLocalSend:436)writeLocalTcp err ret: -1 fd:2304 [0x201 0xc] len:0 p_SendData == NULL [0].flag err. 0
+E/NO_TAG   [02-27 11:11:20.597 pid:19828 tid:17244] (CmdRequestBlock:124)i:0 CmdRequestBlock TcpLocalSend err -1,[0x201 0xc] netDataKind:0 SendLen:0 iDeviceId:0
+E/NO_TAG   [02-27 11:11:20.612 pid:19828 tid:17244] (TcpLocalSend:436)writeLocalTcp err ret: -1 fd:2304 [0x201 0xc] len:0 p_SendData == NULL [0].flag err. 0
+E/NO_TAG   [02-27 11:11:20.612 pid:19828 tid:17244] (CmdRequestBlock:124)i:0 CmdRequestBlock TcpLocalSend err -1,[0x201 0xc] netDataKind:0 SendLen:0 iDeviceId:0
+E/NO_TAG   [02-27 11:11:20.627 pid:19828 tid:17244] (TcpErr:9)TcpErr ret:-1
+E/NO_TAG   [02-27 11:11:20.627 pid:19828 tid:17244] (SRRequestBlock:169)CmdRequestBlock err:-1
+E/NO_TAG   [02-27 11:11:20.627 pid:19828 tid:17244] (GetLicenseKey:179)CmdRequestBlock Err : -1
+E/SR7Link  [02-27 11:11:31.694 pid:19828 tid:10600] (SR7IF_EthernetOpenExt:94)DeviceId:0, ip:192:168:0:14, ret:-987
+E/SR7Link  [02-27 11:11:34.565 pid:19828 tid:10600] (SR7IF_EthernetOpenExt:94)DeviceId:0, ip:192:168:0:14, ret:-987
+E/SR7Link  [02-27 11:12:46.989 pid:19828 tid:10600] (SR7IF_EthernetOpenExt:94)DeviceId:0, ip:192:168:0:14, ret:-987
+E/SR7Link  [02-27 11:14:01.850 pid:19828 tid:10600] (SR7IF_EthernetOpenExt:94)DeviceId:0, ip:192:168:0:14, ret:-987
+E/NO_TAG   [02-27 11:17:00.644 pid:19924 tid:18748] (InitTcpLocalProtocol:129)gRecvInfoEdge[0].flag = 0
+E/SR7Link  [02-27 11:17:00.771 pid:19924 tid:18748] (SR7IF_EthernetOpenExt:94)DeviceId:0, ip:192:168:0:14, ret:0
+E/SR7Link  [02-27 11:17:00.771 pid:19924 tid:18748] (SR7IF_ProfileData_XPitch:206)DeviceId:0 ret:0.012000
+E/SR7Link  [02-27 11:17:00.772 pid:19924 tid:18748] (SR7IF_ProfileDataWidth:198)DeviceId:0 ret:3200
+E/SR7Link  [02-27 11:17:00.772 pid:19924 tid:18748] (SR7IF_ProfilePointSetCount:191)DeviceId:0 ret:1000
+E/SR7Link  [02-27 11:17:00.772 pid:19924 tid:18748] (SR7IF_GetOnlineCameraB:120)DeviceId:0, ret:-982
+E/SR7Link  [02-27 11:17:00.797 pid:19924 tid:18748] (SR7IF_SetBatchOneTimeDataHandler:495)DeviceId:0 pCallFunc:0xc13d47ac ret:0
+E/NO_TAG   [02-27 11:17:11.030 pid:19924 tid:15372] (readLocalTcp:313)Read Err -1 2524 10054 ReadTimeout:1000
+E/NO_TAG   [02-27 11:17:11.030 pid:19924 tid:15372] (readLocalTcp:313)Read Err -1 2524 10054 ReadTimeout:1000
+E/NO_TAG   [02-27 11:17:11.030 pid:19924 tid:15372] (readLocalTcp:313)Read Err -1 2524 10054 ReadTimeout:1000
+E/NO_TAG   [02-27 11:17:11.030 pid:19924 tid:15372] (BlockingRecvData:509)RecvDataAndDealData -1
+E/NO_TAG   [02-27 11:17:11.030 pid:19924 tid:15372] (CmdRequestBlock:130)i:0 CmdRequestBlock BlockingRecvData err -1,[0x201 0xc] netDataKind:0 SendLen:0 iDeviceId:0
+E/NO_TAG   [02-27 11:17:11.046 pid:19924 tid:15372] (TcpLocalSend:436)writeLocalTcp err ret: -1 fd:2524 [0x201 0xc] len:0 p_SendData == NULL [0].flag err. 0
+E/NO_TAG   [02-27 11:17:11.046 pid:19924 tid:15372] (CmdRequestBlock:124)i:0 CmdRequestBlock TcpLocalSend err -1,[0x201 0xc] netDataKind:0 SendLen:0 iDeviceId:0
+E/NO_TAG   [02-27 11:17:11.061 pid:19924 tid:15372] (TcpLocalSend:436)writeLocalTcp err ret: -1 fd:2524 [0x201 0xc] len:0 p_SendData == NULL [0].flag err. 0
+E/NO_TAG   [02-27 11:17:11.061 pid:19924 tid:15372] (CmdRequestBlock:124)i:0 CmdRequestBlock TcpLocalSend err -1,[0x201 0xc] netDataKind:0 SendLen:0 iDeviceId:0
+E/NO_TAG   [02-27 11:17:11.076 pid:19924 tid:15372] (TcpLocalSend:436)writeLocalTcp err ret: -1 fd:2524 [0x201 0xc] len:0 p_SendData == NULL [0].flag err. 0
+E/NO_TAG   [02-27 11:17:11.076 pid:19924 tid:15372] (CmdRequestBlock:124)i:0 CmdRequestBlock TcpLocalSend err -1,[0x201 0xc] netDataKind:0 SendLen:0 iDeviceId:0
+E/NO_TAG   [02-27 11:17:11.091 pid:19924 tid:15372] (TcpLocalSend:436)writeLocalTcp err ret: -1 fd:2524 [0x201 0xc] len:0 p_SendData == NULL [0].flag err. 0
+E/NO_TAG   [02-27 11:17:11.091 pid:19924 tid:15372] (CmdRequestBlock:124)i:0 CmdRequestBlock TcpLocalSend err -1,[0x201 0xc] netDataKind:0 SendLen:0 iDeviceId:0
+E/NO_TAG   [02-27 11:17:11.106 pid:19924 tid:15372] (TcpLocalSend:436)writeLocalTcp err ret: -1 fd:2524 [0x201 0xc] len:0 p_SendData == NULL [0].flag err. 0
+E/NO_TAG   [02-27 11:17:11.106 pid:19924 tid:15372] (CmdRequestBlock:124)i:0 CmdRequestBlock TcpLocalSend err -1,[0x201 0xc] netDataKind:0 SendLen:0 iDeviceId:0
+E/NO_TAG   [02-27 11:17:11.121 pid:19924 tid:15372] (TcpErr:9)TcpErr ret:-1
+E/NO_TAG   [02-27 11:17:11.121 pid:19924 tid:15372] (SRRequestBlock:169)CmdRequestBlock err:-1
+E/NO_TAG   [02-27 11:17:11.121 pid:19924 tid:15372] (GetLicenseKey:179)CmdRequestBlock Err : -1
+E/SR7Link  [02-27 11:17:19.222 pid:19924 tid:18748] (SR7IF_EthernetOpenExt:94)DeviceId:0, ip:192:168:0:14, ret:-987
+E/NO_TAG   [02-27 11:17:55.124 pid:19332 tid:3616] (InitTcpLocalProtocol:129)gRecvInfoEdge[0].flag = 0
+E/SR7Link  [02-27 11:17:55.252 pid:19332 tid:3616] (SR7IF_EthernetOpenExt:94)DeviceId:0, ip:192:168:0:14, ret:0
+E/SR7Link  [02-27 11:17:55.252 pid:19332 tid:3616] (SR7IF_ProfileData_XPitch:206)DeviceId:0 ret:0.012000
+E/SR7Link  [02-27 11:17:55.253 pid:19332 tid:3616] (SR7IF_ProfileDataWidth:198)DeviceId:0 ret:3200
+E/SR7Link  [02-27 11:17:55.253 pid:19332 tid:3616] (SR7IF_ProfilePointSetCount:191)DeviceId:0 ret:1000
+E/SR7Link  [02-27 11:17:55.253 pid:19332 tid:3616] (SR7IF_GetOnlineCameraB:120)DeviceId:0, ret:-982
+E/SR7Link  [02-27 11:17:55.268 pid:19332 tid:3616] (SR7IF_SetBatchOneTimeDataHandler:495)DeviceId:0 pCallFunc:0xb55f475c ret:0
+E/NO_TAG   [02-27 11:18:00.438 pid:19332 tid:13380] (readLocalTcp:313)Read Err -1 2352 10054 ReadTimeout:1000
+E/NO_TAG   [02-27 11:18:00.439 pid:19332 tid:13380] (readLocalTcp:313)Read Err -1 2352 10054 ReadTimeout:1000
+E/NO_TAG   [02-27 11:18:00.439 pid:19332 tid:13380] (readLocalTcp:313)Read Err -1 2352 10054 ReadTimeout:1000
+E/NO_TAG   [02-27 11:18:00.439 pid:19332 tid:13380] (BlockingRecvData:509)RecvDataAndDealData -1
+E/NO_TAG   [02-27 11:18:00.439 pid:19332 tid:13380] (CmdRequestBlock:130)i:0 CmdRequestBlock BlockingRecvData err -1,[0x201 0xc] netDataKind:0 SendLen:0 iDeviceId:0
+E/NO_TAG   [02-27 11:18:00.443 pid:19332 tid:13380] (TcpLocalSend:436)writeLocalTcp err ret: -1 fd:2352 [0x201 0xc] len:0 p_SendData == NULL [0].flag err. 0
+E/NO_TAG   [02-27 11:18:00.443 pid:19332 tid:13380] (CmdRequestBlock:124)i:0 CmdRequestBlock TcpLocalSend err -1,[0x201 0xc] netDataKind:0 SendLen:0 iDeviceId:0
+E/NO_TAG   [02-27 11:18:00.458 pid:19332 tid:13380] (TcpLocalSend:436)writeLocalTcp err ret: -1 fd:2352 [0x201 0xc] len:0 p_SendData == NULL [0].flag err. 0
+E/NO_TAG   [02-27 11:18:00.458 pid:19332 tid:13380] (CmdRequestBlock:124)i:0 CmdRequestBlock TcpLocalSend err -1,[0x201 0xc] netDataKind:0 SendLen:0 iDeviceId:0
+E/NO_TAG   [02-27 11:18:00.474 pid:19332 tid:13380] (TcpLocalSend:436)writeLocalTcp err ret: -1 fd:2352 [0x201 0xc] len:0 p_SendData == NULL [0].flag err. 0
+E/NO_TAG   [02-27 11:18:00.474 pid:19332 tid:13380] (CmdRequestBlock:124)i:0 CmdRequestBlock TcpLocalSend err -1,[0x201 0xc] netDataKind:0 SendLen:0 iDeviceId:0
+E/NO_TAG   [02-27 11:18:00.489 pid:19332 tid:13380] (TcpLocalSend:436)writeLocalTcp err ret: -1 fd:2352 [0x201 0xc] len:0 p_SendData == NULL [0].flag err. 0
+E/NO_TAG   [02-27 11:18:00.489 pid:19332 tid:13380] (CmdRequestBlock:124)i:0 CmdRequestBlock TcpLocalSend err -1,[0x201 0xc] netDataKind:0 SendLen:0 iDeviceId:0
+E/NO_TAG   [02-27 11:18:00.504 pid:19332 tid:13380] (TcpLocalSend:436)writeLocalTcp err ret: -1 fd:2352 [0x201 0xc] len:0 p_SendData == NULL [0].flag err. 0
+E/NO_TAG   [02-27 11:18:00.504 pid:19332 tid:13380] (CmdRequestBlock:124)i:0 CmdRequestBlock TcpLocalSend err -1,[0x201 0xc] netDataKind:0 SendLen:0 iDeviceId:0
+E/NO_TAG   [02-27 11:18:00.520 pid:19332 tid:13380] (TcpErr:9)TcpErr ret:-1
+E/NO_TAG   [02-27 11:18:00.520 pid:19332 tid:13380] (SRRequestBlock:169)CmdRequestBlock err:-1
+E/NO_TAG   [02-27 11:18:00.520 pid:19332 tid:13380] (GetLicenseKey:179)CmdRequestBlock Err : -1
+E/NO_TAG   [02-27 11:18:05.313 pid:19332 tid:3616] (TcpLocalSend:436)writeLocalTcp err ret: -1 fd:2352 [0x203 0x43] len:40 p_SendData == NULL [0].flag err. 0
+E/NO_TAG   [02-27 11:18:05.313 pid:19332 tid:3616] (CmdRequestBlock:124)i:0 CmdRequestBlock TcpLocalSend err -1,[0x203 0x43] netDataKind:0 SendLen:40 iDeviceId:0
+E/NO_TAG   [02-27 11:18:05.323 pid:19332 tid:3616] (TcpLocalSend:436)writeLocalTcp err ret: -1 fd:2352 [0x203 0x43] len:40 p_SendData == NULL [0].flag err. 0
+E/NO_TAG   [02-27 11:18:05.323 pid:19332 tid:3616] (CmdRequestBlock:124)i:0 CmdRequestBlock TcpLocalSend err -1,[0x203 0x43] netDataKind:0 SendLen:40 iDeviceId:0
+E/NO_TAG   [02-27 11:18:05.338 pid:19332 tid:3616] (TcpErr:9)TcpErr ret:-1
+E/NO_TAG   [02-27 11:18:05.338 pid:19332 tid:3616] (SRRequestBlock:169)CmdRequestBlock err:-1
+E/NO_TAG   [02-27 11:18:05.338 pid:19332 tid:3616] (SetCaptureEnable:481)CmdRequestBlock Err : -1
+E/SR7Link  [02-27 11:18:05.340 pid:19332 tid:3616] (SR7IF_CommClose:113)DeviceId:0, ret:0
+E/NO_TAG   [02-27 11:18:07.667 pid:19332 tid:3616] (SRRequestTcpRelease:73)iDeviceId:0, CmdReleaseTcpCommonSocket err:-5
+E/NO_TAG   [02-27 11:18:07.667 pid:19332 tid:3616] (DestroyProject:78)TCP Destroy err! -5
+E/NO_TAG   [02-27 11:18:07.676 pid:19332 tid:3616] (InitTcpLocalProtocol:129)gRecvInfoEdge[0].flag = 0
+E/SR7Link  [02-27 11:18:07.804 pid:19332 tid:3616] (SR7IF_EthernetOpenExt:94)DeviceId:0, ip:192:168:0:14, ret:0
+E/SR7Link  [02-27 11:18:07.804 pid:19332 tid:3616] (SR7IF_ProfileData_XPitch:206)DeviceId:0 ret:0.012000
+E/SR7Link  [02-27 11:18:07.805 pid:19332 tid:3616] (SR7IF_ProfileDataWidth:198)DeviceId:0 ret:3200
+E/SR7Link  [02-27 11:18:07.805 pid:19332 tid:3616] (SR7IF_ProfilePointSetCount:191)DeviceId:0 ret:1000
+E/SR7Link  [02-27 11:18:07.805 pid:19332 tid:3616] (SR7IF_GetOnlineCameraB:120)DeviceId:0, ret:-982
+E/SR7Link  [02-27 11:18:07.818 pid:19332 tid:3616] (SR7IF_SetBatchOneTimeDataHandler:495)DeviceId:0 pCallFunc:0xb55f4dec ret:0
+E/NO_TAG   [02-27 11:19:13.910 pid:22832 tid:23200] (InitTcpLocalProtocol:129)gRecvInfoEdge[0].flag = 0
+E/SR7Link  [02-27 11:19:14.038 pid:22832 tid:23200] (SR7IF_EthernetOpenExt:94)DeviceId:0, ip:192:168:0:14, ret:0
+E/SR7Link  [02-27 11:19:14.038 pid:22832 tid:23200] (SR7IF_ProfileData_XPitch:206)DeviceId:0 ret:0.012000
+E/SR7Link  [02-27 11:19:14.038 pid:22832 tid:23200] (SR7IF_ProfileDataWidth:198)DeviceId:0 ret:3200
+E/SR7Link  [02-27 11:19:14.039 pid:22832 tid:23200] (SR7IF_ProfilePointSetCount:191)DeviceId:0 ret:1000
+E/SR7Link  [02-27 11:19:14.039 pid:22832 tid:23200] (SR7IF_GetOnlineCameraB:120)DeviceId:0, ret:-982
+E/SR7Link  [02-27 11:19:14.056 pid:22832 tid:23200] (SR7IF_SetBatchOneTimeDataHandler:495)DeviceId:0 pCallFunc:0xa2b249dc ret:0
+E/NO_TAG   [02-27 11:19:22.478 pid:22832 tid:9452] (readLocalTcp:313)Read Err -1 1972 10054 ReadTimeout:1000
+E/NO_TAG   [02-27 11:19:22.478 pid:22832 tid:9452] (readLocalTcp:313)Read Err -1 1972 10054 ReadTimeout:1000
+E/NO_TAG   [02-27 11:19:22.478 pid:22832 tid:9452] (readLocalTcp:313)Read Err -1 1972 10054 ReadTimeout:1000
+E/NO_TAG   [02-27 11:19:22.478 pid:22832 tid:9452] (BlockingRecvData:509)RecvDataAndDealData -1
+E/NO_TAG   [02-27 11:19:22.478 pid:22832 tid:9452] (CmdRequestBlock:130)i:0 CmdRequestBlock BlockingRecvData err -1,[0x201 0xc] netDataKind:0 SendLen:0 iDeviceId:0
+E/NO_TAG   [02-27 11:19:22.482 pid:22832 tid:9452] (TcpLocalSend:436)writeLocalTcp err ret: -1 fd:1972 [0x201 0xc] len:0 p_SendData == NULL [0].flag err. 0
+E/NO_TAG   [02-27 11:19:22.482 pid:22832 tid:9452] (CmdRequestBlock:124)i:0 CmdRequestBlock TcpLocalSend err -1,[0x201 0xc] netDataKind:0 SendLen:0 iDeviceId:0
+E/NO_TAG   [02-27 11:19:22.497 pid:22832 tid:9452] (TcpLocalSend:436)writeLocalTcp err ret: -1 fd:1972 [0x201 0xc] len:0 p_SendData == NULL [0].flag err. 0
+E/NO_TAG   [02-27 11:19:22.497 pid:22832 tid:9452] (CmdRequestBlock:124)i:0 CmdRequestBlock TcpLocalSend err -1,[0x201 0xc] netDataKind:0 SendLen:0 iDeviceId:0
+E/NO_TAG   [02-27 11:19:22.512 pid:22832 tid:9452] (TcpLocalSend:436)writeLocalTcp err ret: -1 fd:1972 [0x201 0xc] len:0 p_SendData == NULL [0].flag err. 0
+E/NO_TAG   [02-27 11:19:22.512 pid:22832 tid:9452] (CmdRequestBlock:124)i:0 CmdRequestBlock TcpLocalSend err -1,[0x201 0xc] netDataKind:0 SendLen:0 iDeviceId:0
+E/NO_TAG   [02-27 11:19:22.527 pid:22832 tid:9452] (TcpLocalSend:436)writeLocalTcp err ret: -1 fd:1972 [0x201 0xc] len:0 p_SendData == NULL [0].flag err. 0
+E/NO_TAG   [02-27 11:19:22.527 pid:22832 tid:9452] (CmdRequestBlock:124)i:0 CmdRequestBlock TcpLocalSend err -1,[0x201 0xc] netDataKind:0 SendLen:0 iDeviceId:0
+E/NO_TAG   [02-27 11:19:22.542 pid:22832 tid:9452] (TcpLocalSend:436)writeLocalTcp err ret: -1 fd:1972 [0x201 0xc] len:0 p_SendData == NULL [0].flag err. 0
+E/NO_TAG   [02-27 11:19:22.542 pid:22832 tid:9452] (CmdRequestBlock:124)i:0 CmdRequestBlock TcpLocalSend err -1,[0x201 0xc] netDataKind:0 SendLen:0 iDeviceId:0
+E/NO_TAG   [02-27 11:19:22.557 pid:22832 tid:9452] (TcpErr:9)TcpErr ret:-1
+E/NO_TAG   [02-27 11:19:22.557 pid:22832 tid:9452] (SRRequestBlock:169)CmdRequestBlock err:-1
+E/NO_TAG   [02-27 11:19:22.557 pid:22832 tid:9452] (GetLicenseKey:179)CmdRequestBlock Err : -1
+E/SR7Link  [02-27 11:19:30.387 pid:22832 tid:23200] (SR7IF_EthernetOpenExt:94)DeviceId:0, ip:192:168:0:14, ret:-987
+E/NO_TAG   [02-27 11:19:33.205 pid:22832 tid:23200] (TcpLocalSend:436)writeLocalTcp err ret: -1 fd:1972 [0x203 0x43] len:40 p_SendData == NULL [0].flag err. 0
+E/NO_TAG   [02-27 11:19:33.205 pid:22832 tid:23200] (CmdRequestBlock:124)i:0 CmdRequestBlock TcpLocalSend err -1,[0x203 0x43] netDataKind:0 SendLen:40 iDeviceId:0
+E/NO_TAG   [02-27 11:19:33.220 pid:22832 tid:23200] (TcpLocalSend:436)writeLocalTcp err ret: -1 fd:1972 [0x203 0x43] len:40 p_SendData == NULL [0].flag err. 0
+E/NO_TAG   [02-27 11:19:33.220 pid:22832 tid:23200] (CmdRequestBlock:124)i:0 CmdRequestBlock TcpLocalSend err -1,[0x203 0x43] netDataKind:0 SendLen:40 iDeviceId:0
+E/NO_TAG   [02-27 11:19:33.235 pid:22832 tid:23200] (TcpErr:9)TcpErr ret:-1
+E/NO_TAG   [02-27 11:19:33.235 pid:22832 tid:23200] (SRRequestBlock:169)CmdRequestBlock err:-1
+E/NO_TAG   [02-27 11:19:33.235 pid:22832 tid:23200] (SetCaptureEnable:481)CmdRequestBlock Err : -1
+E/SR7Link  [02-27 11:19:33.237 pid:22832 tid:23200] (SR7IF_CommClose:113)DeviceId:0, ret:0
+E/NO_TAG   [02-27 11:19:35.962 pid:22832 tid:23200] (SRRequestTcpRelease:73)iDeviceId:0, CmdReleaseTcpCommonSocket err:-5
+E/NO_TAG   [02-27 11:19:35.962 pid:22832 tid:23200] (DestroyProject:78)TCP Destroy err! -5
+E/NO_TAG   [02-27 11:19:35.969 pid:22832 tid:23200] (InitTcpLocalProtocol:129)gRecvInfoEdge[0].flag = 0
+E/SR7Link  [02-27 11:19:36.097 pid:22832 tid:23200] (SR7IF_EthernetOpenExt:94)DeviceId:0, ip:192:168:0:14, ret:0
+E/SR7Link  [02-27 11:19:36.097 pid:22832 tid:23200] (SR7IF_ProfileData_XPitch:206)DeviceId:0 ret:0.012000
+E/SR7Link  [02-27 11:19:36.098 pid:22832 tid:23200] (SR7IF_ProfileDataWidth:198)DeviceId:0 ret:3200
+E/SR7Link  [02-27 11:19:36.098 pid:22832 tid:23200] (SR7IF_ProfilePointSetCount:191)DeviceId:0 ret:1000
+E/SR7Link  [02-27 11:19:36.098 pid:22832 tid:23200] (SR7IF_GetOnlineCameraB:120)DeviceId:0, ret:-982
+E/SR7Link  [02-27 11:19:36.111 pid:22832 tid:23200] (SR7IF_SetBatchOneTimeDataHandler:495)DeviceId:0 pCallFunc:0xa2b244dc ret:0
+E/SR7Link  [02-27 11:20:10.686 pid:22832 tid:23200] (SR7IF_CommClose:113)DeviceId:0, ret:0
+E/NO_TAG   [02-27 11:20:10.864 pid:22832 tid:4348] (SRRequestBlock:137)[ERR]projectInit == 0
+E/NO_TAG   [02-27 11:20:10.864 pid:22832 tid:4348] (GetLicenseKey:179)CmdRequestBlock Err : -20
+E/NO_TAG   [02-27 11:21:44.528 pid:11948 tid:9144] (InitTcpLocalProtocol:129)gRecvInfoEdge[0].flag = 0
+E/SR7Link  [02-27 11:21:44.656 pid:11948 tid:9144] (SR7IF_EthernetOpenExt:94)DeviceId:0, ip:192:168:0:14, ret:0
+E/SR7Link  [02-27 11:21:44.656 pid:11948 tid:9144] (SR7IF_ProfileData_XPitch:206)DeviceId:0 ret:0.012000
+E/SR7Link  [02-27 11:21:44.657 pid:11948 tid:9144] (SR7IF_ProfileDataWidth:198)DeviceId:0 ret:3200
+E/SR7Link  [02-27 11:21:44.657 pid:11948 tid:9144] (SR7IF_ProfilePointSetCount:191)DeviceId:0 ret:1000
+E/SR7Link  [02-27 11:21:44.658 pid:11948 tid:9144] (SR7IF_GetOnlineCameraB:120)DeviceId:0, ret:-982
+E/SR7Link  [02-27 11:21:44.674 pid:11948 tid:9144] (SR7IF_SetBatchOneTimeDataHandler:495)DeviceId:0 pCallFunc:0x5290452c ret:0
+E/NO_TAG   [02-27 11:21:48.002 pid:11948 tid:15972] (readLocalTcp:313)Read Err -1 2200 10054 ReadTimeout:1000
+E/NO_TAG   [02-27 11:21:48.002 pid:11948 tid:15972] (readLocalTcp:313)Read Err -1 2200 10054 ReadTimeout:1000
+E/NO_TAG   [02-27 11:21:48.002 pid:11948 tid:15972] (readLocalTcp:313)Read Err -1 2200 10054 ReadTimeout:1000
+E/NO_TAG   [02-27 11:21:48.002 pid:11948 tid:15972] (BlockingRecvData:509)RecvDataAndDealData -1
+E/NO_TAG   [02-27 11:21:48.002 pid:11948 tid:15972] (CmdRequestBlock:130)i:0 CmdRequestBlock BlockingRecvData err -1,[0x201 0xc] netDataKind:0 SendLen:0 iDeviceId:0
+E/NO_TAG   [02-27 11:21:48.012 pid:11948 tid:15972] (TcpLocalSend:436)writeLocalTcp err ret: -1 fd:2200 [0x201 0xc] len:0 p_SendData == NULL [0].flag err. 0
+E/NO_TAG   [02-27 11:21:48.012 pid:11948 tid:15972] (CmdRequestBlock:124)i:0 CmdRequestBlock TcpLocalSend err -1,[0x201 0xc] netDataKind:0 SendLen:0 iDeviceId:0
+E/NO_TAG   [02-27 11:21:48.027 pid:11948 tid:15972] (TcpLocalSend:436)writeLocalTcp err ret: -1 fd:2200 [0x201 0xc] len:0 p_SendData == NULL [0].flag err. 0
+E/NO_TAG   [02-27 11:21:48.027 pid:11948 tid:15972] (CmdRequestBlock:124)i:0 CmdRequestBlock TcpLocalSend err -1,[0x201 0xc] netDataKind:0 SendLen:0 iDeviceId:0
+E/NO_TAG   [02-27 11:21:48.042 pid:11948 tid:15972] (TcpLocalSend:436)writeLocalTcp err ret: -1 fd:2200 [0x201 0xc] len:0 p_SendData == NULL [0].flag err. 0
+E/NO_TAG   [02-27 11:21:48.042 pid:11948 tid:15972] (CmdRequestBlock:124)i:0 CmdRequestBlock TcpLocalSend err -1,[0x201 0xc] netDataKind:0 SendLen:0 iDeviceId:0
+E/NO_TAG   [02-27 11:21:48.057 pid:11948 tid:15972] (TcpLocalSend:436)writeLocalTcp err ret: -1 fd:2200 [0x201 0xc] len:0 p_SendData == NULL [0].flag err. 0
+E/NO_TAG   [02-27 11:21:48.057 pid:11948 tid:15972] (CmdRequestBlock:124)i:0 CmdRequestBlock TcpLocalSend err -1,[0x201 0xc] netDataKind:0 SendLen:0 iDeviceId:0
+E/NO_TAG   [02-27 11:21:48.072 pid:11948 tid:15972] (TcpLocalSend:436)writeLocalTcp err ret: -1 fd:2200 [0x201 0xc] len:0 p_SendData == NULL [0].flag err. 0
+E/NO_TAG   [02-27 11:21:48.072 pid:11948 tid:15972] (CmdRequestBlock:124)i:0 CmdRequestBlock TcpLocalSend err -1,[0x201 0xc] netDataKind:0 SendLen:0 iDeviceId:0
+E/NO_TAG   [02-27 11:21:48.087 pid:11948 tid:15972] (TcpErr:9)TcpErr ret:-1
+E/NO_TAG   [02-27 11:21:48.087 pid:11948 tid:15972] (SRRequestBlock:169)CmdRequestBlock err:-1
+E/NO_TAG   [02-27 11:21:48.087 pid:11948 tid:15972] (GetLicenseKey:179)CmdRequestBlock Err : -1
+E/NO_TAG   [02-27 11:21:48.114 pid:11948 tid:15972] (TcpLocalSend:436)writeLocalTcp err ret: -1 fd:2200 [0x203 0x43] len:40 p_SendData == NULL [0].flag err. 0
+E/NO_TAG   [02-27 11:21:48.114 pid:11948 tid:15972] (CmdRequestBlock:124)i:0 CmdRequestBlock TcpLocalSend err -1,[0x203 0x43] netDataKind:0 SendLen:40 iDeviceId:0
+E/NO_TAG   [02-27 11:21:48.117 pid:11948 tid:15972] (TcpLocalSend:436)writeLocalTcp err ret: -1 fd:2200 [0x203 0x43] len:40 p_SendData == NULL [0].flag err. 0
+E/NO_TAG   [02-27 11:21:48.117 pid:11948 tid:15972] (CmdRequestBlock:124)i:0 CmdRequestBlock TcpLocalSend err -1,[0x203 0x43] netDataKind:0 SendLen:40 iDeviceId:0
+E/NO_TAG   [02-27 11:21:48.132 pid:11948 tid:15972] (TcpErr:9)TcpErr ret:-1
+E/NO_TAG   [02-27 11:21:48.132 pid:11948 tid:15972] (SRRequestBlock:169)CmdRequestBlock err:-1
+E/NO_TAG   [02-27 11:21:48.132 pid:11948 tid:15972] (SetCaptureEnable:481)CmdRequestBlock Err : -1
+E/SR7Link  [02-27 11:21:48.136 pid:11948 tid:15972] (SR7IF_CommClose:113)DeviceId:0, ret:0
+E/NO_TAG   [02-27 11:21:58.768 pid:11948 tid:9144] (SRRequestTcpRelease:73)iDeviceId:0, CmdReleaseTcpCommonSocket err:-5
+E/NO_TAG   [02-27 11:21:58.768 pid:11948 tid:9144] (DestroyProject:78)TCP Destroy err! -5
+E/NO_TAG   [02-27 11:21:58.775 pid:11948 tid:9144] (InitTcpLocalProtocol:129)gRecvInfoEdge[0].flag = 0
+E/SR7Link  [02-27 11:21:58.904 pid:11948 tid:9144] (SR7IF_EthernetOpenExt:94)DeviceId:0, ip:192:168:0:14, ret:0
+E/SR7Link  [02-27 11:21:58.904 pid:11948 tid:9144] (SR7IF_ProfileData_XPitch:206)DeviceId:0 ret:0.012000
+E/SR7Link  [02-27 11:21:58.904 pid:11948 tid:9144] (SR7IF_ProfileDataWidth:198)DeviceId:0 ret:3200
+E/SR7Link  [02-27 11:21:58.905 pid:11948 tid:9144] (SR7IF_ProfilePointSetCount:191)DeviceId:0 ret:1000
+E/SR7Link  [02-27 11:21:58.905 pid:11948 tid:9144] (SR7IF_GetOnlineCameraB:120)DeviceId:0, ret:-982
+E/SR7Link  [02-27 11:21:58.917 pid:11948 tid:9144] (SR7IF_SetBatchOneTimeDataHandler:495)DeviceId:0 pCallFunc:0x5290407c ret:0
+E/NO_TAG   [02-27 11:22:05.234 pid:11948 tid:3320] (readLocalTcp:313)Read Err -1 2592 10054 ReadTimeout:1000
+E/NO_TAG   [02-27 11:22:05.234 pid:11948 tid:3320] (readLocalTcp:313)Read Err -1 2592 10054 ReadTimeout:1000
+E/NO_TAG   [02-27 11:22:05.234 pid:11948 tid:3320] (readLocalTcp:313)Read Err -1 2592 10054 ReadTimeout:1000
+E/NO_TAG   [02-27 11:22:05.234 pid:11948 tid:3320] (BlockingRecvData:509)RecvDataAndDealData -1
+E/NO_TAG   [02-27 11:22:05.234 pid:11948 tid:3320] (CmdRequestBlock:130)i:0 CmdRequestBlock BlockingRecvData err -1,[0x201 0xc] netDataKind:0 SendLen:0 iDeviceId:0
+E/NO_TAG   [02-27 11:22:05.239 pid:11948 tid:3320] (TcpLocalSend:436)writeLocalTcp err ret: -1 fd:2592 [0x201 0xc] len:0 p_SendData == NULL [0].flag err. 0
+E/NO_TAG   [02-27 11:22:05.239 pid:11948 tid:3320] (CmdRequestBlock:124)i:0 CmdRequestBlock TcpLocalSend err -1,[0x201 0xc] netDataKind:0 SendLen:0 iDeviceId:0
+E/NO_TAG   [02-27 11:22:05.254 pid:11948 tid:3320] (TcpLocalSend:436)writeLocalTcp err ret: -1 fd:2592 [0x201 0xc] len:0 p_SendData == NULL [0].flag err. 0
+E/NO_TAG   [02-27 11:22:05.254 pid:11948 tid:3320] (CmdRequestBlock:124)i:0 CmdRequestBlock TcpLocalSend err -1,[0x201 0xc] netDataKind:0 SendLen:0 iDeviceId:0
+E/NO_TAG   [02-27 11:22:05.269 pid:11948 tid:3320] (TcpLocalSend:436)writeLocalTcp err ret: -1 fd:2592 [0x201 0xc] len:0 p_SendData == NULL [0].flag err. 0
+E/NO_TAG   [02-27 11:22:05.269 pid:11948 tid:3320] (CmdRequestBlock:124)i:0 CmdRequestBlock TcpLocalSend err -1,[0x201 0xc] netDataKind:0 SendLen:0 iDeviceId:0
+E/NO_TAG   [02-27 11:22:05.284 pid:11948 tid:3320] (TcpLocalSend:436)writeLocalTcp err ret: -1 fd:2592 [0x201 0xc] len:0 p_SendData == NULL [0].flag err. 0
+E/NO_TAG   [02-27 11:22:05.284 pid:11948 tid:3320] (CmdRequestBlock:124)i:0 CmdRequestBlock TcpLocalSend err -1,[0x201 0xc] netDataKind:0 SendLen:0 iDeviceId:0
+E/NO_TAG   [02-27 11:22:05.299 pid:11948 tid:3320] (TcpLocalSend:436)writeLocalTcp err ret: -1 fd:2592 [0x201 0xc] len:0 p_SendData == NULL [0].flag err. 0
+E/NO_TAG   [02-27 11:22:05.299 pid:11948 tid:3320] (CmdRequestBlock:124)i:0 CmdRequestBlock TcpLocalSend err -1,[0x201 0xc] netDataKind:0 SendLen:0 iDeviceId:0
+E/NO_TAG   [02-27 11:22:05.314 pid:11948 tid:3320] (TcpErr:9)TcpErr ret:-1
+E/NO_TAG   [02-27 11:22:05.314 pid:11948 tid:3320] (SRRequestBlock:169)CmdRequestBlock err:-1
+E/NO_TAG   [02-27 11:22:05.314 pid:11948 tid:3320] (GetLicenseKey:179)CmdRequestBlock Err : -1
+E/NO_TAG   [02-27 11:22:05.317 pid:11948 tid:3320] (TcpLocalSend:436)writeLocalTcp err ret: -1 fd:2592 [0x203 0x43] len:40 p_SendData == NULL [0].flag err. 0
+E/NO_TAG   [02-27 11:22:05.317 pid:11948 tid:3320] (CmdRequestBlock:124)i:0 CmdRequestBlock TcpLocalSend err -1,[0x203 0x43] netDataKind:0 SendLen:40 iDeviceId:0
+E/NO_TAG   [02-27 11:22:05.329 pid:11948 tid:3320] (TcpLocalSend:436)writeLocalTcp err ret: -1 fd:2592 [0x203 0x43] len:40 p_SendData == NULL [0].flag err. 0
+E/NO_TAG   [02-27 11:22:05.329 pid:11948 tid:3320] (CmdRequestBlock:124)i:0 CmdRequestBlock TcpLocalSend err -1,[0x203 0x43] netDataKind:0 SendLen:40 iDeviceId:0
+E/NO_TAG   [02-27 11:22:05.344 pid:11948 tid:3320] (TcpErr:9)TcpErr ret:-1
+E/NO_TAG   [02-27 11:22:05.344 pid:11948 tid:3320] (SRRequestBlock:169)CmdRequestBlock err:-1
+E/NO_TAG   [02-27 11:22:05.344 pid:11948 tid:3320] (SetCaptureEnable:481)CmdRequestBlock Err : -1
+E/SR7Link  [02-27 11:22:05.349 pid:11948 tid:3320] (SR7IF_CommClose:113)DeviceId:0, ret:0
+E/NO_TAG   [02-27 11:22:10.158 pid:11948 tid:9144] (SRRequestTcpRelease:73)iDeviceId:0, CmdReleaseTcpCommonSocket err:-5
+E/NO_TAG   [02-27 11:22:10.158 pid:11948 tid:9144] (DestroyProject:78)TCP Destroy err! -5
+E/NO_TAG   [02-27 11:22:10.166 pid:11948 tid:9144] (InitTcpLocalProtocol:129)gRecvInfoEdge[0].flag = 0
+E/SR7Link  [02-27 11:22:10.294 pid:11948 tid:9144] (SR7IF_EthernetOpenExt:94)DeviceId:0, ip:192:168:0:14, ret:0
+E/SR7Link  [02-27 11:22:10.294 pid:11948 tid:9144] (SR7IF_ProfileData_XPitch:206)DeviceId:0 ret:0.012000
+E/SR7Link  [02-27 11:22:10.294 pid:11948 tid:9144] (SR7IF_ProfileDataWidth:198)DeviceId:0 ret:3200
+E/SR7Link  [02-27 11:22:10.295 pid:11948 tid:9144] (SR7IF_ProfilePointSetCount:191)DeviceId:0 ret:1000
+E/SR7Link  [02-27 11:22:10.295 pid:11948 tid:9144] (SR7IF_GetOnlineCameraB:120)DeviceId:0, ret:-982
+E/SR7Link  [02-27 11:22:10.313 pid:11948 tid:9144] (SR7IF_SetBatchOneTimeDataHandler:495)DeviceId:0 pCallFunc:0x52904e3c ret:0
+E/NO_TAG   [02-27 11:40:14.724 pid:9176 tid:21780] (InitTcpLocalProtocol:129)gRecvInfoEdge[0].flag = 0
+E/SR7Link  [02-27 11:40:14.853 pid:9176 tid:21780] (SR7IF_EthernetOpenExt:94)DeviceId:0, ip:192:168:0:14, ret:0
+E/SR7Link  [02-27 11:40:14.853 pid:9176 tid:21780] (SR7IF_ProfileData_XPitch:206)DeviceId:0 ret:0.012000
+E/SR7Link  [02-27 11:40:14.854 pid:9176 tid:21780] (SR7IF_ProfileDataWidth:198)DeviceId:0 ret:3200
+E/SR7Link  [02-27 11:40:14.854 pid:9176 tid:21780] (SR7IF_ProfilePointSetCount:191)DeviceId:0 ret:1000
+E/SR7Link  [02-27 11:40:14.854 pid:9176 tid:21780] (SR7IF_GetOnlineCameraB:120)DeviceId:0, ret:-982
+E/SR7Link  [02-27 11:40:14.872 pid:9176 tid:21780] (SR7IF_SetBatchOneTimeDataHandler:495)DeviceId:0 pCallFunc:0x6ac0461c ret:0
+E/NO_TAG   [02-27 11:40:25.188 pid:9176 tid:14592] (readLocalTcp:313)Read Err -1 2208 10054 ReadTimeout:1000
+E/NO_TAG   [02-27 11:40:25.188 pid:9176 tid:14592] (readLocalTcp:313)Read Err -1 2208 10054 ReadTimeout:1000
+E/NO_TAG   [02-27 11:40:25.188 pid:9176 tid:14592] (readLocalTcp:313)Read Err -1 2208 10054 ReadTimeout:1000
+E/NO_TAG   [02-27 11:40:25.188 pid:9176 tid:14592] (BlockingRecvData:509)RecvDataAndDealData -1
+E/NO_TAG   [02-27 11:40:25.188 pid:9176 tid:14592] (CmdRequestBlock:130)i:0 CmdRequestBlock BlockingRecvData err -1,[0x201 0xc] netDataKind:0 SendLen:0 iDeviceId:0
+E/NO_TAG   [02-27 11:40:25.196 pid:9176 tid:14592] (TcpLocalSend:436)writeLocalTcp err ret: -1 fd:2208 [0x201 0xc] len:0 p_SendData == NULL [0].flag err. 0
+E/NO_TAG   [02-27 11:40:25.196 pid:9176 tid:14592] (CmdRequestBlock:124)i:0 CmdRequestBlock TcpLocalSend err -1,[0x201 0xc] netDataKind:0 SendLen:0 iDeviceId:0
+E/NO_TAG   [02-27 11:40:25.211 pid:9176 tid:14592] (TcpLocalSend:436)writeLocalTcp err ret: -1 fd:2208 [0x201 0xc] len:0 p_SendData == NULL [0].flag err. 0
+E/NO_TAG   [02-27 11:40:25.211 pid:9176 tid:14592] (CmdRequestBlock:124)i:0 CmdRequestBlock TcpLocalSend err -1,[0x201 0xc] netDataKind:0 SendLen:0 iDeviceId:0
+E/NO_TAG   [02-27 11:40:25.226 pid:9176 tid:14592] (TcpLocalSend:436)writeLocalTcp err ret: -1 fd:2208 [0x201 0xc] len:0 p_SendData == NULL [0].flag err. 0
+E/NO_TAG   [02-27 11:40:25.226 pid:9176 tid:14592] (CmdRequestBlock:124)i:0 CmdRequestBlock TcpLocalSend err -1,[0x201 0xc] netDataKind:0 SendLen:0 iDeviceId:0
+E/NO_TAG   [02-27 11:40:25.241 pid:9176 tid:14592] (TcpLocalSend:436)writeLocalTcp err ret: -1 fd:2208 [0x201 0xc] len:0 p_SendData == NULL [0].flag err. 0
+E/NO_TAG   [02-27 11:40:25.241 pid:9176 tid:14592] (CmdRequestBlock:124)i:0 CmdRequestBlock TcpLocalSend err -1,[0x201 0xc] netDataKind:0 SendLen:0 iDeviceId:0
+E/NO_TAG   [02-27 11:40:25.256 pid:9176 tid:14592] (TcpLocalSend:436)writeLocalTcp err ret: -1 fd:2208 [0x201 0xc] len:0 p_SendData == NULL [0].flag err. 0
+E/NO_TAG   [02-27 11:40:25.256 pid:9176 tid:14592] (CmdRequestBlock:124)i:0 CmdRequestBlock TcpLocalSend err -1,[0x201 0xc] netDataKind:0 SendLen:0 iDeviceId:0
+E/NO_TAG   [02-27 11:40:25.271 pid:9176 tid:14592] (TcpErr:9)TcpErr ret:-1
+E/NO_TAG   [02-27 11:40:25.271 pid:9176 tid:14592] (SRRequestBlock:169)CmdRequestBlock err:-1
+E/NO_TAG   [02-27 11:40:25.271 pid:9176 tid:14592] (GetLicenseKey:179)CmdRequestBlock Err : -1
+E/NO_TAG   [02-27 11:40:25.361 pid:9176 tid:14592] (TcpLocalSend:436)writeLocalTcp err ret: -1 fd:2208 [0x203 0x43] len:40 p_SendData == NULL [0].flag err. 0
+E/NO_TAG   [02-27 11:40:25.361 pid:9176 tid:14592] (CmdRequestBlock:124)i:0 CmdRequestBlock TcpLocalSend err -1,[0x203 0x43] netDataKind:0 SendLen:40 iDeviceId:0
+E/NO_TAG   [02-27 11:40:25.377 pid:9176 tid:14592] (TcpLocalSend:436)writeLocalTcp err ret: -1 fd:2208 [0x203 0x43] len:40 p_SendData == NULL [0].flag err. 0
+E/NO_TAG   [02-27 11:40:25.377 pid:9176 tid:14592] (CmdRequestBlock:124)i:0 CmdRequestBlock TcpLocalSend err -1,[0x203 0x43] netDataKind:0 SendLen:40 iDeviceId:0
+E/NO_TAG   [02-27 11:40:25.392 pid:9176 tid:14592] (TcpErr:9)TcpErr ret:-1
+E/NO_TAG   [02-27 11:40:25.392 pid:9176 tid:14592] (SRRequestBlock:169)CmdRequestBlock err:-1
+E/NO_TAG   [02-27 11:40:25.392 pid:9176 tid:14592] (SetCaptureEnable:481)CmdRequestBlock Err : -1
+E/SR7Link  [02-27 11:40:25.397 pid:9176 tid:14592] (SR7IF_CommClose:113)DeviceId:0, ret:0
+E/NO_TAG   [02-27 11:40:41.611 pid:9176 tid:21780] (SRRequestTcpRelease:73)iDeviceId:0, CmdReleaseTcpCommonSocket err:-5
+E/NO_TAG   [02-27 11:40:41.611 pid:9176 tid:21780] (DestroyProject:78)TCP Destroy err! -5
+E/NO_TAG   [02-27 11:40:41.619 pid:9176 tid:21780] (InitTcpLocalProtocol:129)gRecvInfoEdge[0].flag = 0
+E/SR7Link  [02-27 11:40:41.746 pid:9176 tid:21780] (SR7IF_EthernetOpenExt:94)DeviceId:0, ip:192:168:0:14, ret:0
+E/SR7Link  [02-27 11:40:41.746 pid:9176 tid:21780] (SR7IF_ProfileData_XPitch:206)DeviceId:0 ret:0.012000
+E/SR7Link  [02-27 11:40:41.747 pid:9176 tid:21780] (SR7IF_ProfileDataWidth:198)DeviceId:0 ret:3200
+E/SR7Link  [02-27 11:40:41.747 pid:9176 tid:21780] (SR7IF_ProfilePointSetCount:191)DeviceId:0 ret:1000
+E/SR7Link  [02-27 11:40:41.747 pid:9176 tid:21780] (SR7IF_GetOnlineCameraB:120)DeviceId:0, ret:-982
+E/SR7Link  [02-27 11:40:41.760 pid:9176 tid:21780] (SR7IF_SetBatchOneTimeDataHandler:495)DeviceId:0 pCallFunc:0x6ac047fc ret:0
+E/NO_TAG   [02-27 11:40:46.629 pid:9176 tid:17856] (readLocalTcp:313)Read Err -1 2136 10038 ReadTimeout:1000
+E/NO_TAG   [02-27 11:40:46.629 pid:9176 tid:17856] (readLocalTcp:291)Read errno:0 No error
+
+E/NO_TAG   [02-27 11:40:46.629 pid:9176 tid:17856] (readLocalTcp:291)Read errno:0 No error
+
+E/NO_TAG   [02-27 11:40:46.629 pid:9176 tid:17856] (BlockingRecvData:509)RecvDataAndDealData -1
+E/NO_TAG   [02-27 11:40:46.629 pid:9176 tid:17856] (CmdRequestBlock:130)i:0 CmdRequestBlock BlockingRecvData err -1,[0x201 0xc] netDataKind:0 SendLen:0 iDeviceId:0
+E/SR7Link  [02-27 11:40:46.632 pid:9176 tid:21780] (SR7IF_CommClose:113)DeviceId:0, ret:0
+E/NO_TAG   [02-27 11:40:46.644 pid:9176 tid:17856] (TcpLocalSend:377)[0x201 0xc] len:0 gRecvInfo[0].flag err. 10
+E/NO_TAG   [02-27 11:40:46.644 pid:9176 tid:17856] (CmdRequestBlock:124)i:0 CmdRequestBlock TcpLocalSend err -5,[0x201 0xc] netDataKind:0 SendLen:0 iDeviceId:0
+E/NO_TAG   [02-27 11:40:46.659 pid:9176 tid:17856] (TcpLocalSend:377)[0x201 0xc] len:0 gRecvInfo[0].flag err. 10
+E/NO_TAG   [02-27 11:40:46.659 pid:9176 tid:17856] (CmdRequestBlock:124)i:0 CmdRequestBlock TcpLocalSend err -5,[0x201 0xc] netDataKind:0 SendLen:0 iDeviceId:0
+E/NO_TAG   [02-27 11:40:46.674 pid:9176 tid:17856] (TcpLocalSend:377)[0x201 0xc] len:0 gRecvInfo[0].flag err. 10
+E/NO_TAG   [02-27 11:40:46.674 pid:9176 tid:17856] (CmdRequestBlock:124)i:0 CmdRequestBlock TcpLocalSend err -5,[0x201 0xc] netDataKind:0 SendLen:0 iDeviceId:0
+E/NO_TAG   [02-27 11:40:46.689 pid:9176 tid:17856] (TcpLocalSend:377)[0x201 0xc] len:0 gRecvInfo[0].flag err. 10
+E/NO_TAG   [02-27 11:40:46.689 pid:9176 tid:17856] (CmdRequestBlock:124)i:0 CmdRequestBlock TcpLocalSend err -5,[0x201 0xc] netDataKind:0 SendLen:0 iDeviceId:0
+E/NO_TAG   [02-27 11:40:46.705 pid:9176 tid:17856] (TcpLocalSend:377)[0x201 0xc] len:0 gRecvInfo[0].flag err. 10
+E/NO_TAG   [02-27 11:40:46.705 pid:9176 tid:17856] (CmdRequestBlock:124)i:0 CmdRequestBlock TcpLocalSend err -5,[0x201 0xc] netDataKind:0 SendLen:0 iDeviceId:0
+E/NO_TAG   [02-27 11:40:46.720 pid:9176 tid:17856] (TcpErr:9)TcpErr ret:-5
+E/NO_TAG   [02-27 11:40:46.720 pid:9176 tid:17856] (SRRequestBlock:169)CmdRequestBlock err:-5
+E/NO_TAG   [02-27 11:40:46.720 pid:9176 tid:17856] (GetLicenseKey:179)CmdRequestBlock Err : -5
+E/NO_TAG   [02-27 11:40:49.606 pid:9176 tid:21780] (SRRequestTcpRelease:73)iDeviceId:0, CmdReleaseTcpCommonSocket err:-5
+E/NO_TAG   [02-27 11:40:49.606 pid:9176 tid:21780] (DestroyProject:78)TCP Destroy err! -5
+E/NO_TAG   [02-27 11:40:49.614 pid:9176 tid:21780] (InitTcpLocalProtocol:129)gRecvInfoEdge[0].flag = 0
+E/SR7Link  [02-27 11:40:49.742 pid:9176 tid:21780] (SR7IF_EthernetOpenExt:94)DeviceId:0, ip:192:168:0:14, ret:0
+E/SR7Link  [02-27 11:40:49.742 pid:9176 tid:21780] (SR7IF_ProfileData_XPitch:206)DeviceId:0 ret:0.012000
+E/SR7Link  [02-27 11:40:49.743 pid:9176 tid:21780] (SR7IF_ProfileDataWidth:198)DeviceId:0 ret:3200
+E/SR7Link  [02-27 11:40:49.743 pid:9176 tid:21780] (SR7IF_ProfilePointSetCount:191)DeviceId:0 ret:1000
+E/SR7Link  [02-27 11:40:49.743 pid:9176 tid:21780] (SR7IF_GetOnlineCameraB:120)DeviceId:0, ret:-982
+E/SR7Link  [02-27 11:40:49.760 pid:9176 tid:21780] (SR7IF_SetBatchOneTimeDataHandler:495)DeviceId:0 pCallFunc:0x6ac041bc ret:0
+E/SR7Link  [02-27 11:40:51.357 pid:9176 tid:21780] (SR7IF_CommClose:113)DeviceId:0, ret:0
+E/NO_TAG   [02-27 11:40:51.552 pid:9176 tid:17292] (SRRequestBlock:137)[ERR]projectInit == 0
+E/NO_TAG   [02-27 11:40:51.552 pid:9176 tid:17292] (GetLicenseKey:179)CmdRequestBlock Err : -20
+E/NO_TAG   [02-27 11:40:55.546 pid:9176 tid:21780] (SRRequestTcpRelease:73)iDeviceId:0, CmdReleaseTcpCommonSocket err:-5
+E/NO_TAG   [02-27 11:40:55.546 pid:9176 tid:21780] (DestroyProject:78)TCP Destroy err! -5
+E/NO_TAG   [02-27 11:40:55.553 pid:9176 tid:21780] (InitTcpLocalProtocol:129)gRecvInfoEdge[0].flag = 0
+E/SR7Link  [02-27 11:40:55.683 pid:9176 tid:21780] (SR7IF_EthernetOpenExt:94)DeviceId:0, ip:192:168:0:14, ret:0
+E/SR7Link  [02-27 11:40:55.683 pid:9176 tid:21780] (SR7IF_ProfileData_XPitch:206)DeviceId:0 ret:0.012000
+E/SR7Link  [02-27 11:40:55.684 pid:9176 tid:21780] (SR7IF_ProfileDataWidth:198)DeviceId:0 ret:3200
+E/SR7Link  [02-27 11:40:55.684 pid:9176 tid:21780] (SR7IF_ProfilePointSetCount:191)DeviceId:0 ret:1000
+E/SR7Link  [02-27 11:40:55.684 pid:9176 tid:21780] (SR7IF_GetOnlineCameraB:120)DeviceId:0, ret:-982
+E/SR7Link  [02-27 11:40:55.697 pid:9176 tid:21780] (SR7IF_SetBatchOneTimeDataHandler:495)DeviceId:0 pCallFunc:0x6ac0420c ret:0
+E/SR7Link  [02-27 11:40:57.713 pid:9176 tid:21780] (SR7IF_CommClose:113)DeviceId:0, ret:0
+E/NO_TAG   [02-27 11:40:57.802 pid:9176 tid:16696] (SRRequestBlock:137)[ERR]projectInit == 0
+E/NO_TAG   [02-27 11:40:57.802 pid:9176 tid:16696] (GetLicenseKey:179)CmdRequestBlock Err : -20
+E/NO_TAG   [02-27 11:41:03.611 pid:9176 tid:21780] (SRRequestTcpRelease:73)iDeviceId:0, CmdReleaseTcpCommonSocket err:-5
+E/NO_TAG   [02-27 11:41:03.611 pid:9176 tid:21780] (DestroyProject:78)TCP Destroy err! -5
+E/NO_TAG   [02-27 11:41:03.618 pid:9176 tid:21780] (InitTcpLocalProtocol:129)gRecvInfoEdge[0].flag = 0
+E/SR7Link  [02-27 11:41:03.748 pid:9176 tid:21780] (SR7IF_EthernetOpenExt:94)DeviceId:0, ip:192:168:0:14, ret:0
+E/SR7Link  [02-27 11:41:03.748 pid:9176 tid:21780] (SR7IF_ProfileData_XPitch:206)DeviceId:0 ret:0.012000
+E/SR7Link  [02-27 11:41:03.749 pid:9176 tid:21780] (SR7IF_ProfileDataWidth:198)DeviceId:0 ret:3200
+E/SR7Link  [02-27 11:41:03.749 pid:9176 tid:21780] (SR7IF_ProfilePointSetCount:191)DeviceId:0 ret:1000
+E/SR7Link  [02-27 11:41:03.749 pid:9176 tid:21780] (SR7IF_GetOnlineCameraB:120)DeviceId:0, ret:-982
+E/SR7Link  [02-27 11:41:03.767 pid:9176 tid:21780] (SR7IF_SetBatchOneTimeDataHandler:495)DeviceId:0 pCallFunc:0x6ac047ac ret:0
+E/NO_TAG   [02-27 11:41:07.898 pid:9176 tid:2684] (readLocalTcp:313)Read Err -1 2208 10054 ReadTimeout:1000
+E/NO_TAG   [02-27 11:41:07.898 pid:9176 tid:2684] (readLocalTcp:313)Read Err -1 2208 10054 ReadTimeout:1000
+E/NO_TAG   [02-27 11:41:07.898 pid:9176 tid:2684] (readLocalTcp:313)Read Err -1 2208 10054 ReadTimeout:1000
+E/NO_TAG   [02-27 11:41:07.898 pid:9176 tid:2684] (BlockingRecvData:509)RecvDataAndDealData -1
+E/NO_TAG   [02-27 11:41:07.898 pid:9176 tid:2684] (CmdRequestBlock:130)i:0 CmdRequestBlock BlockingRecvData err -1,[0x201 0xc] netDataKind:0 SendLen:0 iDeviceId:0
+E/NO_TAG   [02-27 11:41:07.914 pid:9176 tid:2684] (TcpLocalSend:436)writeLocalTcp err ret: -1 fd:2208 [0x201 0xc] len:0 p_SendData == NULL [0].flag err. 0
+E/NO_TAG   [02-27 11:41:07.914 pid:9176 tid:2684] (CmdRequestBlock:124)i:0 CmdRequestBlock TcpLocalSend err -1,[0x201 0xc] netDataKind:0 SendLen:0 iDeviceId:0
+E/NO_TAG   [02-27 11:41:07.929 pid:9176 tid:2684] (TcpLocalSend:436)writeLocalTcp err ret: -1 fd:2208 [0x201 0xc] len:0 p_SendData == NULL [0].flag err. 0
+E/NO_TAG   [02-27 11:41:07.929 pid:9176 tid:2684] (CmdRequestBlock:124)i:0 CmdRequestBlock TcpLocalSend err -1,[0x201 0xc] netDataKind:0 SendLen:0 iDeviceId:0
+E/NO_TAG   [02-27 11:41:07.944 pid:9176 tid:2684] (TcpLocalSend:436)writeLocalTcp err ret: -1 fd:2208 [0x201 0xc] len:0 p_SendData == NULL [0].flag err. 0
+E/NO_TAG   [02-27 11:41:07.944 pid:9176 tid:2684] (CmdRequestBlock:124)i:0 CmdRequestBlock TcpLocalSend err -1,[0x201 0xc] netDataKind:0 SendLen:0 iDeviceId:0
+E/NO_TAG   [02-27 11:41:07.959 pid:9176 tid:2684] (TcpLocalSend:436)writeLocalTcp err ret: -1 fd:2208 [0x201 0xc] len:0 p_SendData == NULL [0].flag err. 0
+E/NO_TAG   [02-27 11:41:07.959 pid:9176 tid:2684] (CmdRequestBlock:124)i:0 CmdRequestBlock TcpLocalSend err -1,[0x201 0xc] netDataKind:0 SendLen:0 iDeviceId:0
+E/NO_TAG   [02-27 11:41:07.975 pid:9176 tid:2684] (TcpLocalSend:436)writeLocalTcp err ret: -1 fd:2208 [0x201 0xc] len:0 p_SendData == NULL [0].flag err. 0
+E/NO_TAG   [02-27 11:41:07.975 pid:9176 tid:2684] (CmdRequestBlock:124)i:0 CmdRequestBlock TcpLocalSend err -1,[0x201 0xc] netDataKind:0 SendLen:0 iDeviceId:0
+E/NO_TAG   [02-27 11:41:07.990 pid:9176 tid:2684] (TcpErr:9)TcpErr ret:-1
+E/NO_TAG   [02-27 11:41:07.990 pid:9176 tid:2684] (SRRequestBlock:169)CmdRequestBlock err:-1
+E/NO_TAG   [02-27 11:41:07.990 pid:9176 tid:2684] (GetLicenseKey:179)CmdRequestBlock Err : -1
+E/NO_TAG   [02-27 11:41:08.037 pid:9176 tid:2684] (TcpLocalSend:436)writeLocalTcp err ret: -1 fd:2208 [0x203 0x43] len:40 p_SendData == NULL [0].flag err. 0
+E/NO_TAG   [02-27 11:41:08.037 pid:9176 tid:2684] (CmdRequestBlock:124)i:0 CmdRequestBlock TcpLocalSend err -1,[0x203 0x43] netDataKind:0 SendLen:40 iDeviceId:0
+E/NO_TAG   [02-27 11:41:08.051 pid:9176 tid:2684] (TcpLocalSend:436)writeLocalTcp err ret: -1 fd:2208 [0x203 0x43] len:40 p_SendData == NULL [0].flag err. 0
+E/NO_TAG   [02-27 11:41:08.051 pid:9176 tid:2684] (CmdRequestBlock:124)i:0 CmdRequestBlock TcpLocalSend err -1,[0x203 0x43] netDataKind:0 SendLen:40 iDeviceId:0
+E/NO_TAG   [02-27 11:41:08.067 pid:9176 tid:2684] (TcpErr:9)TcpErr ret:-1
+E/NO_TAG   [02-27 11:41:08.067 pid:9176 tid:2684] (SRRequestBlock:169)CmdRequestBlock err:-1
+E/NO_TAG   [02-27 11:41:08.067 pid:9176 tid:2684] (SetCaptureEnable:481)CmdRequestBlock Err : -1
+E/SR7Link  [02-27 11:41:08.071 pid:9176 tid:2684] (SR7IF_CommClose:113)DeviceId:0, ret:0
+E/NO_TAG   [02-27 16:09:44.761 pid:15200 tid:8744] (InitTcpLocalProtocol:129)gRecvInfoEdge[0].flag = 0
+E/SR7Link  [02-27 16:09:44.893 pid:15200 tid:8744] (SR7IF_EthernetOpenExt:94)DeviceId:0, ip:192:168:0:14, ret:0
+E/SR7Link  [02-27 16:09:44.893 pid:15200 tid:8744] (SR7IF_ProfileData_XPitch:206)DeviceId:0 ret:0.012000
+E/SR7Link  [02-27 16:09:44.894 pid:15200 tid:8744] (SR7IF_ProfileDataWidth:198)DeviceId:0 ret:3200
+E/SR7Link  [02-27 16:09:44.895 pid:15200 tid:8744] (SR7IF_ProfilePointSetCount:191)DeviceId:0 ret:1000
+E/SR7Link  [02-27 16:09:44.895 pid:15200 tid:8744] (SR7IF_GetOnlineCameraB:120)DeviceId:0, ret:-982
+E/SR7Link  [02-27 16:09:44.915 pid:15200 tid:8744] (SR7IF_SetBatchOneTimeDataHandler:495)DeviceId:0 pCallFunc:0x5d8040cc ret:0
+E/NO_TAG   [02-27 16:10:00.983 pid:15200 tid:27132] (readLocalTcp:313)Read Err -1 2184 10054 ReadTimeout:1000
+E/NO_TAG   [02-27 16:10:00.983 pid:15200 tid:27132] (readLocalTcp:313)Read Err -1 2184 10054 ReadTimeout:1000
+E/NO_TAG   [02-27 16:10:00.983 pid:15200 tid:27132] (readLocalTcp:313)Read Err -1 2184 10054 ReadTimeout:1000
+E/NO_TAG   [02-27 16:10:00.983 pid:15200 tid:27132] (BlockingRecvData:509)RecvDataAndDealData -1
+E/NO_TAG   [02-27 16:10:00.983 pid:15200 tid:27132] (CmdRequestBlock:130)i:0 CmdRequestBlock BlockingRecvData err -1,[0x201 0xc] netDataKind:0 SendLen:0 iDeviceId:0
+E/NO_TAG   [02-27 16:10:00.986 pid:15200 tid:27132] (TcpLocalSend:436)writeLocalTcp err ret: -1 fd:2184 [0x201 0xc] len:0 p_SendData == NULL [0].flag err. 0
+E/NO_TAG   [02-27 16:10:00.986 pid:15200 tid:27132] (CmdRequestBlock:124)i:0 CmdRequestBlock TcpLocalSend err -1,[0x201 0xc] netDataKind:0 SendLen:0 iDeviceId:0
+E/NO_TAG   [02-27 16:10:01.001 pid:15200 tid:27132] (TcpLocalSend:436)writeLocalTcp err ret: -1 fd:2184 [0x201 0xc] len:0 p_SendData == NULL [0].flag err. 0
+E/NO_TAG   [02-27 16:10:01.001 pid:15200 tid:27132] (CmdRequestBlock:124)i:0 CmdRequestBlock TcpLocalSend err -1,[0x201 0xc] netDataKind:0 SendLen:0 iDeviceId:0
+E/NO_TAG   [02-27 16:10:01.017 pid:15200 tid:27132] (TcpLocalSend:436)writeLocalTcp err ret: -1 fd:2184 [0x201 0xc] len:0 p_SendData == NULL [0].flag err. 0
+E/NO_TAG   [02-27 16:10:01.017 pid:15200 tid:27132] (CmdRequestBlock:124)i:0 CmdRequestBlock TcpLocalSend err -1,[0x201 0xc] netDataKind:0 SendLen:0 iDeviceId:0
+E/NO_TAG   [02-27 16:10:01.032 pid:15200 tid:27132] (TcpLocalSend:436)writeLocalTcp err ret: -1 fd:2184 [0x201 0xc] len:0 p_SendData == NULL [0].flag err. 0
+E/NO_TAG   [02-27 16:10:01.032 pid:15200 tid:27132] (CmdRequestBlock:124)i:0 CmdRequestBlock TcpLocalSend err -1,[0x201 0xc] netDataKind:0 SendLen:0 iDeviceId:0
+E/NO_TAG   [02-27 16:10:01.047 pid:15200 tid:27132] (TcpLocalSend:436)writeLocalTcp err ret: -1 fd:2184 [0x201 0xc] len:0 p_SendData == NULL [0].flag err. 0
+E/NO_TAG   [02-27 16:10:01.047 pid:15200 tid:27132] (CmdRequestBlock:124)i:0 CmdRequestBlock TcpLocalSend err -1,[0x201 0xc] netDataKind:0 SendLen:0 iDeviceId:0
+E/NO_TAG   [02-27 16:10:01.063 pid:15200 tid:27132] (TcpErr:9)TcpErr ret:-1
+E/NO_TAG   [02-27 16:10:01.063 pid:15200 tid:27132] (SRRequestBlock:169)CmdRequestBlock err:-1
+E/NO_TAG   [02-27 16:10:01.063 pid:15200 tid:27132] (GetLicenseKey:179)CmdRequestBlock Err : -1
+E/NO_TAG   [02-27 16:10:01.105 pid:15200 tid:27132] (TcpLocalSend:436)writeLocalTcp err ret: -1 fd:2184 [0x203 0x43] len:40 p_SendData == NULL [0].flag err. 0
+E/NO_TAG   [02-27 16:10:01.105 pid:15200 tid:27132] (CmdRequestBlock:124)i:0 CmdRequestBlock TcpLocalSend err -1,[0x203 0x43] netDataKind:0 SendLen:40 iDeviceId:0
+E/NO_TAG   [02-27 16:10:01.109 pid:15200 tid:27132] (TcpLocalSend:436)writeLocalTcp err ret: -1 fd:2184 [0x203 0x43] len:40 p_SendData == NULL [0].flag err. 0
+E/NO_TAG   [02-27 16:10:01.109 pid:15200 tid:27132] (CmdRequestBlock:124)i:0 CmdRequestBlock TcpLocalSend err -1,[0x203 0x43] netDataKind:0 SendLen:40 iDeviceId:0
+E/NO_TAG   [02-27 16:10:01.141 pid:15200 tid:27132] (TcpErr:9)TcpErr ret:-1
+E/NO_TAG   [02-27 16:10:01.141 pid:15200 tid:27132] (SRRequestBlock:169)CmdRequestBlock err:-1
+E/NO_TAG   [02-27 16:10:01.141 pid:15200 tid:27132] (SetCaptureEnable:481)CmdRequestBlock Err : -1
+E/SR7Link  [02-27 16:10:01.145 pid:15200 tid:27132] (SR7IF_CommClose:113)DeviceId:0, ret:0
+E/NO_TAG   [02-27 16:10:17.737 pid:15200 tid:8744] (SRRequestTcpRelease:73)iDeviceId:0, CmdReleaseTcpCommonSocket err:-5
+E/NO_TAG   [02-27 16:10:17.737 pid:15200 tid:8744] (DestroyProject:78)TCP Destroy err! -5
+E/NO_TAG   [02-27 16:10:17.744 pid:15200 tid:8744] (InitTcpLocalProtocol:129)gRecvInfoEdge[0].flag = 0
+E/SR7Link  [02-27 16:10:17.865 pid:15200 tid:8744] (SR7IF_EthernetOpenExt:94)DeviceId:0, ip:192:168:0:14, ret:0
+E/SR7Link  [02-27 16:10:17.865 pid:15200 tid:8744] (SR7IF_ProfileData_XPitch:206)DeviceId:0 ret:0.012000
+E/SR7Link  [02-27 16:10:17.865 pid:15200 tid:8744] (SR7IF_ProfileDataWidth:198)DeviceId:0 ret:3200
+E/SR7Link  [02-27 16:10:17.866 pid:15200 tid:8744] (SR7IF_ProfilePointSetCount:191)DeviceId:0 ret:1000
+E/SR7Link  [02-27 16:10:17.866 pid:15200 tid:8744] (SR7IF_GetOnlineCameraB:120)DeviceId:0, ret:-982
+E/SR7Link  [02-27 16:10:17.878 pid:15200 tid:8744] (SR7IF_SetBatchOneTimeDataHandler:495)DeviceId:0 pCallFunc:0x5d803f8c ret:0
+E/NO_TAG   [02-27 16:14:42.967 pid:27244 tid:19268] (InitTcpLocalProtocol:129)gRecvInfoEdge[0].flag = 0
+E/SR7Link  [02-27 16:14:43.096 pid:27244 tid:19268] (SR7IF_EthernetOpenExt:94)DeviceId:0, ip:192:168:0:14, ret:0
+E/SR7Link  [02-27 16:14:43.097 pid:27244 tid:19268] (SR7IF_ProfileData_XPitch:206)DeviceId:0 ret:0.012000
+E/SR7Link  [02-27 16:14:43.098 pid:27244 tid:19268] (SR7IF_ProfileDataWidth:198)DeviceId:0 ret:3200
+E/SR7Link  [02-27 16:14:43.098 pid:27244 tid:19268] (SR7IF_ProfilePointSetCount:191)DeviceId:0 ret:1000
+E/SR7Link  [02-27 16:14:43.098 pid:27244 tid:19268] (SR7IF_GetOnlineCameraB:120)DeviceId:0, ret:-982
+E/SR7Link  [02-27 16:14:43.116 pid:27244 tid:19268] (SR7IF_SetBatchOneTimeDataHandler:495)DeviceId:0 pCallFunc:0xc26643ec ret:0
+E/SR7Link  [02-27 16:14:52.820 pid:27244 tid:19268] (SR7IF_StartMeasureWithCallback:508)In, lDeviceId:0 IOTrigger:1
+E/SR7Link  [02-27 16:14:52.823 pid:27244 tid:19268] (SR7IF_StartMeasureWithCallback:512)DeviceId:0 ret:-983 [register]Batch: Start[IO(0) soft(0)] stop[IO(0) soft(0)]   IOTimes[Start:0 Stop:0]
+E/NO_TAG   [02-27 16:15:03.765 pid:27244 tid:17828] (readLocalTcp:313)Read Err -1 2176 10054 ReadTimeout:1000
+E/NO_TAG   [02-27 16:15:03.765 pid:27244 tid:17828] (readLocalTcp:313)Read Err -1 2176 10054 ReadTimeout:1000
+E/NO_TAG   [02-27 16:15:03.765 pid:27244 tid:17828] (readLocalTcp:313)Read Err -1 2176 10054 ReadTimeout:1000
+E/NO_TAG   [02-27 16:15:03.765 pid:27244 tid:17828] (BlockingRecvData:509)RecvDataAndDealData -1
+E/NO_TAG   [02-27 16:15:03.765 pid:27244 tid:17828] (CmdRequestBlock:130)i:0 CmdRequestBlock BlockingRecvData err -1,[0x201 0xc] netDataKind:0 SendLen:0 iDeviceId:0
+E/NO_TAG   [02-27 16:15:03.772 pid:27244 tid:17828] (TcpLocalSend:436)writeLocalTcp err ret: -1 fd:2176 [0x201 0xc] len:0 p_SendData == NULL [0].flag err. 0
+E/NO_TAG   [02-27 16:15:03.772 pid:27244 tid:17828] (CmdRequestBlock:124)i:0 CmdRequestBlock TcpLocalSend err -1,[0x201 0xc] netDataKind:0 SendLen:0 iDeviceId:0
+E/NO_TAG   [02-27 16:15:03.787 pid:27244 tid:17828] (TcpLocalSend:436)writeLocalTcp err ret: -1 fd:2176 [0x201 0xc] len:0 p_SendData == NULL [0].flag err. 0
+E/NO_TAG   [02-27 16:15:03.787 pid:27244 tid:17828] (CmdRequestBlock:124)i:0 CmdRequestBlock TcpLocalSend err -1,[0x201 0xc] netDataKind:0 SendLen:0 iDeviceId:0
+E/NO_TAG   [02-27 16:15:03.802 pid:27244 tid:17828] (TcpLocalSend:436)writeLocalTcp err ret: -1 fd:2176 [0x201 0xc] len:0 p_SendData == NULL [0].flag err. 0
+E/NO_TAG   [02-27 16:15:03.802 pid:27244 tid:17828] (CmdRequestBlock:124)i:0 CmdRequestBlock TcpLocalSend err -1,[0x201 0xc] netDataKind:0 SendLen:0 iDeviceId:0
+E/NO_TAG   [02-27 16:15:03.817 pid:27244 tid:17828] (TcpLocalSend:436)writeLocalTcp err ret: -1 fd:2176 [0x201 0xc] len:0 p_SendData == NULL [0].flag err. 0
+E/NO_TAG   [02-27 16:15:03.817 pid:27244 tid:17828] (CmdRequestBlock:124)i:0 CmdRequestBlock TcpLocalSend err -1,[0x201 0xc] netDataKind:0 SendLen:0 iDeviceId:0
+E/NO_TAG   [02-27 16:15:03.832 pid:27244 tid:17828] (TcpLocalSend:436)writeLocalTcp err ret: -1 fd:2176 [0x201 0xc] len:0 p_SendData == NULL [0].flag err. 0
+E/NO_TAG   [02-27 16:15:03.832 pid:27244 tid:17828] (CmdRequestBlock:124)i:0 CmdRequestBlock TcpLocalSend err -1,[0x201 0xc] netDataKind:0 SendLen:0 iDeviceId:0
+E/NO_TAG   [02-27 16:15:03.847 pid:27244 tid:17828] (TcpErr:9)TcpErr ret:-1
+E/NO_TAG   [02-27 16:15:03.847 pid:27244 tid:17828] (SRRequestBlock:169)CmdRequestBlock err:-1
+E/NO_TAG   [02-27 16:15:03.847 pid:27244 tid:17828] (GetLicenseKey:179)CmdRequestBlock Err : -1
+E/NO_TAG   [02-27 16:15:03.985 pid:27244 tid:17828] (TcpLocalSend:436)writeLocalTcp err ret: -1 fd:2176 [0x203 0x43] len:40 p_SendData == NULL [0].flag err. 0
+E/NO_TAG   [02-27 16:15:03.985 pid:27244 tid:17828] (CmdRequestBlock:124)i:0 CmdRequestBlock TcpLocalSend err -1,[0x203 0x43] netDataKind:0 SendLen:40 iDeviceId:0
+E/NO_TAG   [02-27 16:15:03.999 pid:27244 tid:17828] (TcpLocalSend:436)writeLocalTcp err ret: -1 fd:2176 [0x203 0x43] len:40 p_SendData == NULL [0].flag err. 0
+E/NO_TAG   [02-27 16:15:03.999 pid:27244 tid:17828] (CmdRequestBlock:124)i:0 CmdRequestBlock TcpLocalSend err -1,[0x203 0x43] netDataKind:0 SendLen:40 iDeviceId:0
+E/NO_TAG   [02-27 16:15:04.014 pid:27244 tid:17828] (TcpErr:9)TcpErr ret:-1
+E/NO_TAG   [02-27 16:15:04.014 pid:27244 tid:17828] (SRRequestBlock:169)CmdRequestBlock err:-1
+E/NO_TAG   [02-27 16:15:04.014 pid:27244 tid:17828] (SetCaptureEnable:481)CmdRequestBlock Err : -1
+E/SR7Link  [02-27 16:15:04.018 pid:27244 tid:17828] (SR7IF_CommClose:113)DeviceId:0, ret:0
+E/NO_TAG   [02-27 16:15:09.914 pid:27244 tid:19268] (SRRequestTcpRelease:73)iDeviceId:0, CmdReleaseTcpCommonSocket err:-5
+E/NO_TAG   [02-27 16:15:09.914 pid:27244 tid:19268] (DestroyProject:78)TCP Destroy err! -5
+E/NO_TAG   [02-27 16:15:09.924 pid:27244 tid:19268] (InitTcpLocalProtocol:129)gRecvInfoEdge[0].flag = 0
+E/SR7Link  [02-27 16:15:10.049 pid:27244 tid:19268] (SR7IF_EthernetOpenExt:94)DeviceId:0, ip:192:168:0:14, ret:0
+E/SR7Link  [02-27 16:15:10.049 pid:27244 tid:19268] (SR7IF_ProfileData_XPitch:206)DeviceId:0 ret:0.012000
+E/SR7Link  [02-27 16:15:10.049 pid:27244 tid:19268] (SR7IF_ProfileDataWidth:198)DeviceId:0 ret:3200
+E/SR7Link  [02-27 16:15:10.050 pid:27244 tid:19268] (SR7IF_ProfilePointSetCount:191)DeviceId:0 ret:1000
+E/SR7Link  [02-27 16:15:10.050 pid:27244 tid:19268] (SR7IF_GetOnlineCameraB:120)DeviceId:0, ret:-982
+E/SR7Link  [02-27 16:15:10.068 pid:27244 tid:19268] (SR7IF_SetBatchOneTimeDataHandler:495)DeviceId:0 pCallFunc:0xc2664c0c ret:0
+E/NO_TAG   [02-27 16:15:12.720 pid:27244 tid:25828] (readLocalTcp:313)Read Err -1 556 10054 ReadTimeout:1000
+E/NO_TAG   [02-27 16:15:12.720 pid:27244 tid:25828] (readLocalTcp:313)Read Err -1 556 10054 ReadTimeout:1000
+E/NO_TAG   [02-27 16:15:12.720 pid:27244 tid:25828] (readLocalTcp:313)Read Err -1 556 10054 ReadTimeout:1000
+E/NO_TAG   [02-27 16:15:12.720 pid:27244 tid:25828] (BlockingRecvData:509)RecvDataAndDealData -1
+E/NO_TAG   [02-27 16:15:12.720 pid:27244 tid:25828] (CmdRequestBlock:130)i:0 CmdRequestBlock BlockingRecvData err -1,[0x201 0xc] netDataKind:0 SendLen:0 iDeviceId:0
+E/NO_TAG   [02-27 16:15:12.727 pid:27244 tid:25828] (TcpLocalSend:436)writeLocalTcp err ret: -1 fd:556 [0x201 0xc] len:0 p_SendData == NULL [0].flag err. 0
+E/NO_TAG   [02-27 16:15:12.727 pid:27244 tid:25828] (CmdRequestBlock:124)i:0 CmdRequestBlock TcpLocalSend err -1,[0x201 0xc] netDataKind:0 SendLen:0 iDeviceId:0
+E/NO_TAG   [02-27 16:15:12.742 pid:27244 tid:25828] (TcpLocalSend:436)writeLocalTcp err ret: -1 fd:556 [0x201 0xc] len:0 p_SendData == NULL [0].flag err. 0
+E/NO_TAG   [02-27 16:15:12.742 pid:27244 tid:25828] (CmdRequestBlock:124)i:0 CmdRequestBlock TcpLocalSend err -1,[0x201 0xc] netDataKind:0 SendLen:0 iDeviceId:0
+E/NO_TAG   [02-27 16:15:12.757 pid:27244 tid:25828] (TcpLocalSend:436)writeLocalTcp err ret: -1 fd:556 [0x201 0xc] len:0 p_SendData == NULL [0].flag err. 0
+E/NO_TAG   [02-27 16:15:12.757 pid:27244 tid:25828] (CmdRequestBlock:124)i:0 CmdRequestBlock TcpLocalSend err -1,[0x201 0xc] netDataKind:0 SendLen:0 iDeviceId:0
+E/NO_TAG   [02-27 16:15:12.772 pid:27244 tid:25828] (TcpLocalSend:436)writeLocalTcp err ret: -1 fd:556 [0x201 0xc] len:0 p_SendData == NULL [0].flag err. 0
+E/NO_TAG   [02-27 16:15:12.772 pid:27244 tid:25828] (CmdRequestBlock:124)i:0 CmdRequestBlock TcpLocalSend err -1,[0x201 0xc] netDataKind:0 SendLen:0 iDeviceId:0
+E/NO_TAG   [02-27 16:15:12.787 pid:27244 tid:25828] (TcpLocalSend:436)writeLocalTcp err ret: -1 fd:556 [0x201 0xc] len:0 p_SendData == NULL [0].flag err. 0
+E/NO_TAG   [02-27 16:15:12.787 pid:27244 tid:25828] (CmdRequestBlock:124)i:0 CmdRequestBlock TcpLocalSend err -1,[0x201 0xc] netDataKind:0 SendLen:0 iDeviceId:0
+E/NO_TAG   [02-27 16:15:12.802 pid:27244 tid:25828] (TcpErr:9)TcpErr ret:-1
+E/NO_TAG   [02-27 16:15:12.802 pid:27244 tid:25828] (SRRequestBlock:169)CmdRequestBlock err:-1
+E/NO_TAG   [02-27 16:15:12.802 pid:27244 tid:25828] (GetLicenseKey:179)CmdRequestBlock Err : -1
+E/NO_TAG   [02-27 16:15:12.815 pid:27244 tid:25828] (TcpLocalSend:436)writeLocalTcp err ret: -1 fd:556 [0x203 0x43] len:40 p_SendData == NULL [0].flag err. 0
+E/NO_TAG   [02-27 16:15:12.815 pid:27244 tid:25828] (CmdRequestBlock:124)i:0 CmdRequestBlock TcpLocalSend err -1,[0x203 0x43] netDataKind:0 SendLen:40 iDeviceId:0
+E/NO_TAG   [02-27 16:15:12.817 pid:27244 tid:25828] (TcpLocalSend:436)writeLocalTcp err ret: -1 fd:556 [0x203 0x43] len:40 p_SendData == NULL [0].flag err. 0
+E/NO_TAG   [02-27 16:15:12.817 pid:27244 tid:25828] (CmdRequestBlock:124)i:0 CmdRequestBlock TcpLocalSend err -1,[0x203 0x43] netDataKind:0 SendLen:40 iDeviceId:0
+E/NO_TAG   [02-27 16:15:12.832 pid:27244 tid:25828] (TcpErr:9)TcpErr ret:-1
+E/NO_TAG   [02-27 16:15:12.832 pid:27244 tid:25828] (SRRequestBlock:169)CmdRequestBlock err:-1
+E/NO_TAG   [02-27 16:15:12.832 pid:27244 tid:25828] (SetCaptureEnable:481)CmdRequestBlock Err : -1
+E/SR7Link  [02-27 16:15:12.837 pid:27244 tid:25828] (SR7IF_CommClose:113)DeviceId:0, ret:0
+E/NO_TAG   [02-28 17:16:05.467 pid:26112 tid:30700] (InitTcpLocalProtocol:129)gRecvInfoEdge[0].flag = 0
+E/SR7Link  [02-28 17:16:05.594 pid:26112 tid:30700] (SR7IF_EthernetOpenExt:94)DeviceId:0, ip:192:168:0:14, ret:0
+E/SR7Link  [02-28 17:16:05.595 pid:26112 tid:30700] (SR7IF_ProfileData_XPitch:206)DeviceId:0 ret:0.012000
+E/SR7Link  [02-28 17:16:05.595 pid:26112 tid:30700] (SR7IF_ProfileDataWidth:198)DeviceId:0 ret:3200
+E/SR7Link  [02-28 17:16:05.596 pid:26112 tid:30700] (SR7IF_ProfilePointSetCount:191)DeviceId:0 ret:1000
+E/SR7Link  [02-28 17:16:05.596 pid:26112 tid:30700] (SR7IF_GetOnlineCameraB:120)DeviceId:0, ret:-982
+E/SR7Link  [02-28 17:16:05.620 pid:26112 tid:30700] (SR7IF_SetBatchOneTimeDataHandler:495)DeviceId:0 pCallFunc:0xbdf2475c ret:0
+E/SR7Link  [02-28 17:16:55.497 pid:26112 tid:30700] (SR7IF_GetSetting:407)DeviceId:0 Type:16 Category:0 Item:9 pTarget:0xa5055fc0 pData:0xa5056028 DataSize:2 ret:0
+E/SR7Link  [02-28 17:20:25.498 pid:26112 tid:30700] (SR7IF_GetSetting:407)DeviceId:0 Type:16 Category:0 Item:9 pTarget:0xa50d46c0 pData:0xa50d46e8 DataSize:2 ret:0
+E/SR7Link  [02-28 17:23:06.073 pid:26112 tid:30700] (SR7IF_GetSetting:407)DeviceId:0 Type:16 Category:0 Item:9 pTarget:0xa51685e8 pData:0xa5168610 DataSize:2 ret:0
+E/NO_TAG   [02-28 17:24:13.092 pid:5392 tid:21532] (InitTcpLocalProtocol:129)gRecvInfoEdge[0].flag = 0
+E/SR7Link  [02-28 17:24:13.221 pid:5392 tid:21532] (SR7IF_EthernetOpenExt:94)DeviceId:0, ip:192:168:0:14, ret:0
+E/SR7Link  [02-28 17:24:13.221 pid:5392 tid:21532] (SR7IF_ProfileData_XPitch:206)DeviceId:0 ret:0.012000
+E/SR7Link  [02-28 17:24:13.222 pid:5392 tid:21532] (SR7IF_ProfileDataWidth:198)DeviceId:0 ret:3200
+E/SR7Link  [02-28 17:24:13.222 pid:5392 tid:21532] (SR7IF_ProfilePointSetCount:191)DeviceId:0 ret:1000
+E/SR7Link  [02-28 17:24:13.223 pid:5392 tid:21532] (SR7IF_GetOnlineCameraB:120)DeviceId:0, ret:-982
+E/SR7Link  [02-28 17:24:13.253 pid:5392 tid:21532] (SR7IF_SetBatchOneTimeDataHandler:495)DeviceId:0 pCallFunc:0xeb12425c ret:0
+E/NO_TAG   [02-28 17:26:28.440 pid:7236 tid:31864] (InitTcpLocalProtocol:129)gRecvInfoEdge[0].flag = 0
+E/SR7Link  [02-28 17:26:28.569 pid:7236 tid:31864] (SR7IF_EthernetOpenExt:94)DeviceId:0, ip:192:168:0:14, ret:0
+E/SR7Link  [02-28 17:26:28.570 pid:7236 tid:31864] (SR7IF_ProfileData_XPitch:206)DeviceId:0 ret:0.012000
+E/SR7Link  [02-28 17:26:28.570 pid:7236 tid:31864] (SR7IF_ProfileDataWidth:198)DeviceId:0 ret:3200
+E/SR7Link  [02-28 17:26:28.571 pid:7236 tid:31864] (SR7IF_ProfilePointSetCount:191)DeviceId:0 ret:1000
+E/SR7Link  [02-28 17:26:28.571 pid:7236 tid:31864] (SR7IF_GetOnlineCameraB:120)DeviceId:0, ret:-982
+E/SR7Link  [02-28 17:26:28.594 pid:7236 tid:31864] (SR7IF_SetBatchOneTimeDataHandler:495)DeviceId:0 pCallFunc:0x6ac2493c ret:0
+E/SR7Link  [02-28 17:26:38.644 pid:7236 tid:31864] (SR7IF_GetSetting:407)DeviceId:0 Type:-1 Category:0 Item:9 pTarget:0x1f5b98 pData:0x1f5c00 DataSize:2 ret:0
+E/SR7Link  [02-28 17:34:01.984 pid:7236 tid:31864] (SR7IF_GetSetting:407)DeviceId:0 Type:-1 Category:0 Item:9 pTarget:0xbb048 pData:0xbb070 DataSize:2 ret:0
+E/NO_TAG   [02-28 17:37:15.475 pid:27800 tid:34904] (InitTcpLocalProtocol:129)gRecvInfoEdge[0].flag = 0
+E/SR7Link  [02-28 17:37:15.606 pid:27800 tid:34904] (SR7IF_EthernetOpenExt:94)DeviceId:0, ip:192:168:0:14, ret:0
+E/SR7Link  [02-28 17:37:15.606 pid:27800 tid:34904] (SR7IF_ProfileData_XPitch:206)DeviceId:0 ret:0.012000
+E/SR7Link  [02-28 17:37:15.607 pid:27800 tid:34904] (SR7IF_ProfileDataWidth:198)DeviceId:0 ret:3200
+E/SR7Link  [02-28 17:37:15.607 pid:27800 tid:34904] (SR7IF_ProfilePointSetCount:191)DeviceId:0 ret:1000
+E/SR7Link  [02-28 17:37:15.607 pid:27800 tid:34904] (SR7IF_GetOnlineCameraB:120)DeviceId:0, ret:-982
+E/SR7Link  [02-28 17:37:15.624 pid:27800 tid:34904] (SR7IF_SetBatchOneTimeDataHandler:495)DeviceId:0 pCallFunc:0x394b425c ret:0
+E/SR7Link  [02-28 17:53:03.221 pid:27800 tid:34904] (SR7IF_GetSetting:407)DeviceId:0 Type:-1 Category:0 Item:9 pTarget:0x207af6a8 pData:0x207af710 DataSize:2 ret:0

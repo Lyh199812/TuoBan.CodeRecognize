@@ -1,0 +1,6 @@
+E:\SoftLibs\TuoBan.CodeRecognize\Base.BLL\bin\Debug\Base.BLL.dll
+E:\SoftLibs\TuoBan.CodeRecognize\Base.BLL\bin\Debug\Base.BLL.pdb
+E:\SoftLibs\TuoBan.CodeRecognize\Base.BLL\obj\Debug\Base.BLL.csproj.AssemblyReference.cache
+E:\SoftLibs\TuoBan.CodeRecognize\Base.BLL\obj\Debug\Base.BLL.csproj.CoreCompileInputs.cache
+E:\SoftLibs\TuoBan.CodeRecognize\Base.BLL\obj\Debug\Base.BLL.dll
+E:\SoftLibs\TuoBan.CodeRecognize\Base.BLL\obj\Debug\Base.BLL.pdb

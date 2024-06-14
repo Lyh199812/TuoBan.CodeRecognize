@@ -1,0 +1,9 @@
+CREATE TABLE ImageParameters (
+    Id       INTEGER PRIMARY KEY,
+    Item     STRING,
+    IsOpen   INTEGER,
+    H_Min    DOUBLE,
+    H_Max    DOUBLE,
+    Area_Min DOUBLE,
+    Area_Max DOUBLE
+);

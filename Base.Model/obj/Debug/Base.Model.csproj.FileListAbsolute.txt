@@ -1,0 +1,7 @@
+E:\SoftLibs\TuoBan.CodeRecognize\Base.Model\bin\Debug\Base.Model.dll
+E:\SoftLibs\TuoBan.CodeRecognize\Base.Model\bin\Debug\Base.Model.pdb
+E:\SoftLibs\TuoBan.CodeRecognize\Base.Model\obj\Debug\Base.Model.csproj.AssemblyReference.cache
+E:\SoftLibs\TuoBan.CodeRecognize\Base.Model\obj\Debug\Base.Model.csproj.CoreCompileInputs.cache
+E:\SoftLibs\TuoBan.CodeRecognize\Base.Model\obj\Debug\Base.Model.csproj.Up2Date
+E:\SoftLibs\TuoBan.CodeRecognize\Base.Model\obj\Debug\Base.Model.dll
+E:\SoftLibs\TuoBan.CodeRecognize\Base.Model\obj\Debug\Base.Model.pdb

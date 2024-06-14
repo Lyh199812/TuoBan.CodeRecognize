@@ -1,0 +1,12 @@
+C:\Users\LYH\Desktop\SoftLibs\ZDZ.BMS\4.CurPro\KCATELib.WPF.Asset\bin\Debug\KCATELib.WPF.Asset.dll
+C:\Users\LYH\Desktop\SoftLibs\ZDZ.BMS\4.CurPro\KCATELib.WPF.Asset\bin\Debug\KCATELib.WPF.Asset.pdb
+C:\Users\LYH\Desktop\SoftLibs\ZDZ.BMS\4.CurPro\KCATELib.WPF.Asset\obj\Debug\KCATELib.WPF.Asset.csproj.AssemblyReference.cache
+C:\Users\LYH\Desktop\SoftLibs\ZDZ.BMS\4.CurPro\KCATELib.WPF.Asset\obj\Debug\KCATELib.WPF.Asset_MarkupCompile.cache
+C:\Users\LYH\Desktop\SoftLibs\ZDZ.BMS\4.CurPro\KCATELib.WPF.Asset\obj\Debug\KCATELib.WPF.Asset.g.resources
+C:\Users\LYH\Desktop\SoftLibs\ZDZ.BMS\4.CurPro\KCATELib.WPF.Asset\obj\Debug\KCATELib.WPF.Asset.Properties.Resources.resources
+C:\Users\LYH\Desktop\SoftLibs\ZDZ.BMS\4.CurPro\KCATELib.WPF.Asset\obj\Debug\KCATELib.WPF.Asset.csproj.GenerateResource.cache
+C:\Users\LYH\Desktop\SoftLibs\ZDZ.BMS\4.CurPro\KCATELib.WPF.Asset\obj\Debug\KCATELib.WPF.Asset.csproj.CoreCompileInputs.cache
+C:\Users\LYH\Desktop\SoftLibs\ZDZ.BMS\4.CurPro\KCATELib.WPF.Asset\obj\Debug\KCATELib.WPF.Asset.dll
+C:\Users\LYH\Desktop\SoftLibs\ZDZ.BMS\4.CurPro\KCATELib.WPF.Asset\obj\Debug\KCATELib.WPF.Asset.pdb
+C:\Users\LYH\Desktop\SoftLibs\ZDZ.BMS\4.CurPro\KCATELib.WPF.Asset\obj\Debug\Styles\ButtonStyles.baml
+C:\Users\LYH\Desktop\SoftLibs\ZDZ.BMS\4.CurPro\KCATELib.WPF.Asset\obj\Debug\Styles\RationButtonStyles.baml
