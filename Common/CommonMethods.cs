@@ -1,4 +1,4 @@
-﻿using Common.Config;
+﻿using BaseFramework.ToolsLib;
 using System;
 using System.Collections.Generic;
 using System.ComponentModel;
@@ -24,12 +24,19 @@ namespace Common
 
 
         #region ConfigInfo
-        public static string ConfigPath = Environment.CurrentDirectory + "\\Config\\Device.ini";
-        ////PLCIpAddress
-        //public static string PLCIpAddress {  get; set; }= IniConfigHelper.ReadIniData("设备参数", "PLCIP地址", "NULL", ConfigPath);
+        //设备参数路径
+        public static string devicePath = Environment.CurrentDirectory + "\\Config\\Device.ini";
 
-        ////CamIpAddress
-        //public static string CamIpAddress{ get; set; } = IniConfigHelper.ReadIniData("设备参数", "CamIP地址", "NULL", ConfigPath);
+        //通信组参数路径
+        public static string groupPath = Environment.CurrentDirectory + "\\Config\\Group.xlsx";
+
+        //变量路径
+        public static string variablePath = Environment.CurrentDirectory + "\\Config\\Variable.xlsx";
+        //PLCIpAddress
+        public static string PortName { get; set; } = IniConfigHelper.ReadIniData("设备参数", "PLCPortName", "NULL", devicePath);
+
+        //CamIpAddress
+        public static string CamIpAddress { get; set; } = IniConfigHelper.ReadIniData("设备参数", "CamIP地址", "NULL", devicePath);
 
 
         #endregion

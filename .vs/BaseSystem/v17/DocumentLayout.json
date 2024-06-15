@@ -3,8 +3,8 @@
   "WorkspaceRootPath": "E:\\SoftLibs\\TuoBan.CodeRecognize\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{C07D67A6-A417-4684-820D-EF2CB0E772C1}|Base.Start\\Base.Start.csproj|e:\\softlibs\\tuoban.coderecognize\\base.start\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C07D67A6-A417-4684-820D-EF2CB0E772C1}|Base.Start\\Base.Start.csproj|solutionrelative:base.start\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{C07D67A6-A417-4684-820D-EF2CB0E772C1}|Base.Start\\Base.Start.csproj|e:\\softlibs\\tuoban.coderecognize\\base.start\\viewmodel\\mainviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C07D67A6-A417-4684-820D-EF2CB0E772C1}|Base.Start\\Base.Start.csproj|solutionrelative:base.start\\viewmodel\\mainviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -23,14 +23,14 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "App.xaml.cs",
-              "DocumentMoniker": "E:\\SoftLibs\\TuoBan.CodeRecognize\\Base.Start\\App.xaml.cs",
-              "RelativeDocumentMoniker": "Base.Start\\App.xaml.cs",
-              "ToolTip": "E:\\SoftLibs\\TuoBan.CodeRecognize\\Base.Start\\App.xaml.cs",
-              "RelativeToolTip": "Base.Start\\App.xaml.cs",
-              "ViewState": "AQIAABEAAAAAAAAAAAAIwCEAAAALAAAA",
+              "Title": "MainViewModel.cs",
+              "DocumentMoniker": "E:\\SoftLibs\\TuoBan.CodeRecognize\\Base.Start\\ViewModel\\MainViewModel.cs",
+              "RelativeDocumentMoniker": "Base.Start\\ViewModel\\MainViewModel.cs",
+              "ToolTip": "E:\\SoftLibs\\TuoBan.CodeRecognize\\Base.Start\\ViewModel\\MainViewModel.cs",
+              "RelativeToolTip": "Base.Start\\ViewModel\\MainViewModel.cs",
+              "ViewState": "AQIAADIAAAAAAAAAAAAowDUAAAAMAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-14T06:00:23.483Z",
+              "WhenOpened": "2024-06-15T06:10:07.458Z",
               "EditorCaption": ""
             }
           ]

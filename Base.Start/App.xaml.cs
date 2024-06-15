@@ -1,7 +1,7 @@
-﻿using Common;
-using Base.Start.View;
+﻿using Base.Start.View;
 using Base.Start.View.Pages;
 using Base.Start.ViewModel;
+using Common;
 using Prism.DryIoc;
 using Prism.Ioc;
 using System;

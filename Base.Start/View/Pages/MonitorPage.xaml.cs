@@ -1,5 +1,4 @@
 ﻿using Base.Start.ViewModel;
-using Common;
 using HalconDotNet;
 using System;
 using System.Collections.Generic;

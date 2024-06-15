@@ -8,12 +8,13 @@
     <OutputType>WinExe</OutputType>
     <RootNamespace>Base.Start</RootNamespace>
     <AssemblyName>Base.Start</AssemblyName>
-    <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
+    <TargetFrameworkVersion>v4.8</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <ProjectTypeGuids>{60dc8134-eba5-43b8-bcc9-bb4bc16c2548};{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}</ProjectTypeGuids>
     <WarningLevel>4</WarningLevel>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
     <Deterministic>true</Deterministic>
+    <TargetFrameworkProfile />
   </PropertyGroup>
   <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
     <PlatformTarget>x64</PlatformTarget>
@@ -139,6 +140,22 @@
     </Page>
   </ItemGroup>
   <ItemGroup>
+    <ProjectReference Include="..\..\XG.Framework.01Config\BaseFramework.CommunicationLib\BaseFramework.CommunicationLib.csproj">
+      <Project>{9a981731-af5b-4578-a0d8-235103414709}</Project>
+      <Name>BaseFramework.CommunicationLib</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\..\XG.Framework.01Config\BaseFramework.ConfigLib\BaseFramework.ConfigLib.csproj">
+      <Project>{f1e05814-d249-420c-bd5d-966119b00c87}</Project>
+      <Name>BaseFramework.ConfigLib</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\..\XG.Framework.01Config\BaseFramework.DataConvertLib\BaseFramework.DataConvertLib.csproj">
+      <Project>{08aebfbf-f3cf-4f30-b811-c70b41738cac}</Project>
+      <Name>BaseFramework.DataConvertLib</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\..\XG.Framework.01Config\BaseFramework.ToolsLib\BaseFramework.ToolsLib.csproj">
+      <Project>{7673a976-fcda-431c-8fc3-b31f42458be3}</Project>
+      <Name>BaseFramework.ToolsLib</Name>
+    </ProjectReference>
     <ProjectReference Include="..\..\XG.Framework.01Config\BaseFramework.WPF.Asset\BaseFramework.WPF.Asset.csproj">
       <Project>{915969ea-fa5b-45fe-8d7c-1e0fea367cd6}</Project>
       <Name>BaseFramework.WPF.Asset</Name>

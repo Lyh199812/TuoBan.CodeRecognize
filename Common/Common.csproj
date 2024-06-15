@@ -9,9 +9,10 @@
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <RootNamespace>Common</RootNamespace>
     <AssemblyName>Common</AssemblyName>
-    <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
+    <TargetFrameworkVersion>v4.8</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <Deterministic>true</Deterministic>
+    <TargetFrameworkProfile />
   </PropertyGroup>
   <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
     <DebugSymbols>true</DebugSymbols>
@@ -42,13 +43,14 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="CommonMethods.cs" />
-    <Compile Include="Config\Device.cs" />
-    <Compile Include="Config\Group.cs" />
-    <Compile Include="Config\Station.cs" />
-    <Compile Include="Config\Variable.cs" />
     <Compile Include="OperateLog.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
-  <ItemGroup />
+  <ItemGroup>
+    <ProjectReference Include="..\..\XG.Framework.01Config\BaseFramework.ToolsLib\BaseFramework.ToolsLib.csproj">
+      <Project>{7673A976-FCDA-431C-8FC3-B31F42458BE3}</Project>
+      <Name>BaseFramework.ToolsLib</Name>
+    </ProjectReference>
+  </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

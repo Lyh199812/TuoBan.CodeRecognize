@@ -1,5 +1,4 @@
-﻿using Common;
-using Prism.Mvvm;
+﻿using Prism.Mvvm;
 using Prism.Regions;
 using System;
 using System.Collections.Generic;
@@ -11,7 +10,6 @@ using System.Threading.Tasks;
 using System.Windows.Threading;
 using System.Windows;
 using System.IO;
-using Common.Config;
 using MiniExcelLibs;
 using Prism.Commands;
 using HalconDotNet;
@@ -20,6 +18,7 @@ using Base.Start.View.Pages;
 using HandyControl.Tools.Extension;
 using Prism.Common;
 using Base.Model;
+using Common;
 
 namespace Base.Start.ViewModel
 {
