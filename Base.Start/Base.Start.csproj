@@ -172,6 +172,10 @@
       <Project>{ac3cb188-3da7-46c7-a836-25ee9ff64aa2}</Project>
       <Name>Base.Model</Name>
     </ProjectReference>
+    <ProjectReference Include="..\BasicDemoWPF\BasicDemoWPF.csproj">
+      <Project>{aa49201a-021b-4cae-8558-9e61c87376f0}</Project>
+      <Name>BasicDemoWPF</Name>
+    </ProjectReference>
     <ProjectReference Include="..\Common\Common.csproj">
       <Project>{BC2F963B-16B9-4C40-94C6-C45D267BE8B1}</Project>
       <Name>Common</Name>

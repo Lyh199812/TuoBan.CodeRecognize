@@ -24,3 +24,16 @@ C:\Users\LYH\Desktop\项目文件\拓邦扫码\C#\MvCameraControlNet\BasicDemoWP
 C:\Users\LYH\Desktop\项目文件\拓邦扫码\C#\MvCameraControlNet\BasicDemoWPF\obj\Debug\BasicDemoWPF.csproj.CoreCompileInputs.cache
 C:\Users\LYH\Desktop\项目文件\拓邦扫码\C#\MvCameraControlNet\BasicDemoWPF\obj\Debug\BasicDemoWPF.exe
 C:\Users\LYH\Desktop\项目文件\拓邦扫码\C#\MvCameraControlNet\BasicDemoWPF\obj\Debug\BasicDemoWPF.pdb
+E:\SoftLibs\TuoBan.CodeRecognize\BasicDemoWPF\obj\Debug\BasicDemoWPF.csproj.AssemblyReference.cache
+E:\SoftLibs\TuoBan.CodeRecognize\BasicDemoWPF\obj\Debug\BasicDemoWindow.baml
+E:\SoftLibs\TuoBan.CodeRecognize\BasicDemoWPF\obj\Debug\BasicDemoWindow.g.cs
+E:\SoftLibs\TuoBan.CodeRecognize\BasicDemoWPF\obj\Debug\App.g.cs
+E:\SoftLibs\TuoBan.CodeRecognize\BasicDemoWPF\obj\Debug\BasicDemoWPF_MarkupCompile.cache
+E:\SoftLibs\TuoBan.CodeRecognize\BasicDemoWPF\obj\Debug\BasicDemoWPF.g.resources
+E:\SoftLibs\TuoBan.CodeRecognize\BasicDemoWPF\obj\Debug\BasicDemoWPF.Properties.Resources.resources
+E:\SoftLibs\TuoBan.CodeRecognize\BasicDemoWPF\obj\Debug\BasicDemoWPF.csproj.GenerateResource.cache
+E:\SoftLibs\TuoBan.CodeRecognize\BasicDemoWPF\obj\Debug\BasicDemoWPF.csproj.CoreCompileInputs.cache
+E:\SoftLibs\TuoBan.CodeRecognize\BasicDemoWPF\obj\Debug\BasicDemoWPF.exe
+E:\SoftLibs\TuoBan.CodeRecognize\BasicDemoWPF\obj\Debug\BasicDemoWPF.pdb
+E:\SoftLibs\TuoBan.CodeRecognize\BasicDemoWPF\bin\Debug\BasicDemoWPF.exe
+E:\SoftLibs\TuoBan.CodeRecognize\BasicDemoWPF\bin\Debug\BasicDemoWPF.pdb

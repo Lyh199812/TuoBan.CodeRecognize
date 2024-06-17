@@ -72,3 +72,5 @@ E:\SoftLibs\TuoBan.CodeRecognize\Base.Start\obj\Debug\Base.Start.csproj.CoreComp
 E:\SoftLibs\TuoBan.CodeRecognize\Base.Start\obj\Debug\Base.Start.csproj.Up2Date
 E:\SoftLibs\TuoBan.CodeRecognize\Base.Start\obj\Debug\Base.Start.exe
 E:\SoftLibs\TuoBan.CodeRecognize\Base.Start\obj\Debug\Base.Start.pdb
+E:\SoftLibs\TuoBan.CodeRecognize\Base.Start\bin\Debug\BasicDemoWPF.exe
+E:\SoftLibs\TuoBan.CodeRecognize\Base.Start\bin\Debug\BasicDemoWPF.pdb

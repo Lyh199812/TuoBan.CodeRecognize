@@ -2,6 +2,7 @@
 using BaseFramework.ConfigLib;
 using BaseFramework.DataConvertLib;
 using BaseFramework.ToolsLib;
+using BasicDemoWPF;
 using Common;
 using MiniExcelLibs;
 using Prism.Mvvm;
@@ -26,13 +27,15 @@ namespace Base.Start.ViewModel
             #region UpdateTime
              timer = new Timer((state) =>
             {
-                Application.Current.Dispatcher.Invoke(() =>
+                Application.Current?.Dispatcher.Invoke(() =>
                 {
                     CurrentTime = DateTime.Now.ToString("yyyy-MM-dd HH:mm:ss");
                 });
+
             }, null, TimeSpan.Zero, TimeSpan.FromSeconds(0.5));
             #endregion
             LoadInfo();
+            CamView1 = new BasicDemoWindow();
         }
         #region Base
         Timer timer;
@@ -672,5 +675,38 @@ namespace Base.Start.ViewModel
 
         #endregion
         #endregion
+
+
+        #region Camera
+
+        #region ---Field
+
+
+
+        #endregion
+
+        #region ---Property
+        private object camView1;
+
+        public object CamView1
+        {
+            get { return camView1; }
+            set { camView1 = value;RaisePropertyChanged(); }
+        }
+
+
+        #endregion
+
+        #region ---Method
+
+
+        #endregion
+
+
+        #region ---Delegate
+
+        #endregion
+        #endregion
     }
+
 }

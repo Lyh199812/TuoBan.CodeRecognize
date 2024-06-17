@@ -20,7 +20,7 @@ namespace BasicDemoWPF
     /// <summary>
     /// Interaction logic for Window1.xaml
     /// </summary>
-    public partial class BasicDemoWindow : Window
+    public partial class BasicDemoWindow : UserControl
     {
         MyCamera.MV_CC_DEVICE_INFO_LIST m_stDeviceList = new MyCamera.MV_CC_DEVICE_INFO_LIST();
         private MyCamera m_MyCamera = new MyCamera();
@@ -30,7 +30,7 @@ namespace BasicDemoWPF
         public BasicDemoWindow()
         {
             InitializeComponent();
-            this.Closing += Window_Closing;
+            this.Unloaded += Window_Closing;
             this.Loaded += new RoutedEventHandler(BasicDemoWindow_Load);
         }
 
@@ -311,7 +311,7 @@ namespace BasicDemoWPF
                 if (nRet == MyCamera.MV_OK)
                 {
                     IntPtr hWnd = IntPtr.Zero;
-                    Dispatcher.Invoke(new Action(() =>
+                    Application.Current.Dispatcher.Invoke(new Action(() =>
                         {
                             hWnd = displayArea.Handle;
                         }));
@@ -461,7 +461,7 @@ namespace BasicDemoWPF
             }
         }
 
-        private void Window_Closing(object sender, System.ComponentModel.CancelEventArgs e)
+        private void Window_Closing(object sender, RoutedEventArgs e)
         {
             bnClose_Click(null, null);
 

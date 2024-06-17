@@ -130,8 +130,7 @@
     </Compile>
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="..\MVCameraSDK\Source\MVCamera.cs">
-    </Compile>
+    <Compile Include="MVCamera.cs" />
     <Compile Include="Properties\AssemblyInfo.cs">
       <SubType>Code</SubType>
     </Compile>
