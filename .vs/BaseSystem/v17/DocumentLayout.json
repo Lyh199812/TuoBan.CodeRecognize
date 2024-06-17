@@ -7,11 +7,11 @@
       "RelativeMoniker": "D:0:0:{AA49201A-021B-4CAE-8558-9E61C87376F0}|BasicDemoWPF\\BasicDemoWPF.csproj|solutionrelative:basicdemowpf\\basicdemowindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C07D67A6-A417-4684-820D-EF2CB0E772C1}|Base.Start\\Base.Start.csproj|e:\\softlibs\\tuoban.coderecognize\\base.start\\view\\pages\\monitorpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "AbsoluteMoniker": "D:0:0:{C07D67A6-A417-4684-820D-EF2CB0E772C1}|Base.Start\\Base.Start.csproj|E:\\SoftLibs\\TuoBan.CodeRecognize\\base.start\\view\\pages\\monitorpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{C07D67A6-A417-4684-820D-EF2CB0E772C1}|Base.Start\\Base.Start.csproj|solutionrelative:base.start\\view\\pages\\monitorpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C07D67A6-A417-4684-820D-EF2CB0E772C1}|Base.Start\\Base.Start.csproj|e:\\softlibs\\tuoban.coderecognize\\base.start\\viewmodel\\mainviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{C07D67A6-A417-4684-820D-EF2CB0E772C1}|Base.Start\\Base.Start.csproj|E:\\SoftLibs\\TuoBan.CodeRecognize\\base.start\\viewmodel\\mainviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C07D67A6-A417-4684-820D-EF2CB0E772C1}|Base.Start\\Base.Start.csproj|solutionrelative:base.start\\viewmodel\\mainviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -37,8 +37,7 @@
               "ToolTip": "E:\\SoftLibs\\TuoBan.CodeRecognize\\Base.Start\\View\\Pages\\MonitorPage.xaml",
               "RelativeToolTip": "Base.Start\\View\\Pages\\MonitorPage.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2024-06-17T09:03:51.348Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-17T09:03:51.348Z"
             },
             {
               "$type": "Document",
@@ -48,7 +47,7 @@
               "RelativeDocumentMoniker": "BasicDemoWPF\\BasicDemoWindow.xaml.cs",
               "ToolTip": "E:\\SoftLibs\\TuoBan.CodeRecognize\\BasicDemoWPF\\BasicDemoWindow.xaml.cs",
               "RelativeToolTip": "BasicDemoWPF\\BasicDemoWindow.xaml.cs",
-              "ViewState": "AQIAACkAAAAAAAAAAAAAADIAAAASAAAA",
+              "ViewState": "AQIAABkAAAAAAAAAAAAcwDIAAAASAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-06-17T08:54:56.19Z",
               "EditorCaption": ""
@@ -63,8 +62,7 @@
               "RelativeToolTip": "Base.Start\\ViewModel\\MainViewModel.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-17T08:14:36.385Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-17T08:14:36.385Z"
             }
           ]
         },
