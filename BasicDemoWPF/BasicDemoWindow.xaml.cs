@@ -22,10 +22,7 @@ namespace BasicDemoWPF
     /// </summary>
     public partial class BasicDemoWindow : UserControl
     {
-        MyCamera.MV_CC_DEVICE_INFO_LIST m_stDeviceList = new MyCamera.MV_CC_DEVICE_INFO_LIST();
-        private MyCamera m_MyCamera = new MyCamera();
-        bool m_bGrabbing = false;
-        Thread m_hReceiveThread = null;
+
 
         public BasicDemoWindow()
         {
@@ -34,6 +31,26 @@ namespace BasicDemoWPF
             this.Loaded += new RoutedEventHandler(BasicDemoWindow_Load);
         }
 
+        public BasicDemoWindow(string DeviceName):this()
+        {
+            this.DeviceName=DeviceName;
+        }
+        #region ---Field
+
+        MyCamera.MV_CC_DEVICE_INFO_LIST m_stDeviceList = new MyCamera.MV_CC_DEVICE_INFO_LIST();
+        private MyCamera m_MyCamera = new MyCamera();
+        bool m_bGrabbing = false;
+        Thread m_hReceiveThread = null;
+        public string DeviceName = "HKCam";
+        public static Action<int, string> AddLogAction;
+        #endregion
+
+        #region ---Property
+
+
+        #endregion
+
+        #region ---Method
         private void BasicDemoWindow_Load(object sender, RoutedEventArgs e)
         {
             // ch: 初始化 SDK | en: Initialize SDK
@@ -76,7 +93,16 @@ namespace BasicDemoWPF
                 case MyCamera.MV_E_NETER: errorMsg += " Network error "; break;
             }
 
-            MessageBox.Show(errorMsg, "PROMPT");
+            //添加 AddSysAction by lyh 2024-6-17 
+            if (AddLogAction != null)
+            {
+                AddLogAction.Invoke(1,DeviceName+errorMsg);
+            }
+            else
+            {
+                MessageBox.Show(errorMsg, "PROMPT");
+
+            }
         }
 
         private void DeviceListAcq()
@@ -123,7 +149,7 @@ namespace BasicDemoWPF
                 else if (device.nTLayerType == MyCamera.MV_USB_DEVICE)
                 {
                     MyCamera.MV_USB3_DEVICE_INFO_EX usbInfo = (MyCamera.MV_USB3_DEVICE_INFO_EX)MyCamera.ByteToStruct(device.SpecialInfo.stUsb3VInfo, typeof(MyCamera.MV_USB3_DEVICE_INFO_EX));
-                    
+
                     if ((usbInfo.chUserDefinedName.Length > 0) && (usbInfo.chUserDefinedName[0] != '\0'))
                     {
                         if (MyCamera.IsTextUTF8(usbInfo.chUserDefinedName))
@@ -312,9 +338,9 @@ namespace BasicDemoWPF
                 {
                     IntPtr hWnd = IntPtr.Zero;
                     Application.Current.Dispatcher.Invoke(new Action(() =>
-                        {
-                            hWnd = displayArea.Handle;
-                        }));
+                    {
+                        hWnd = displayArea.Handle;
+                    }));
 
                     stDisplayInfo.hWnd = hWnd;
                     stDisplayInfo.pData = stFrameInfo.pBufAddr;
@@ -468,5 +494,13 @@ namespace BasicDemoWPF
             // ch: 反初始化SDK | en: Finalize SDK
             MyCamera.MV_CC_Finalize_NET();
         }
+
+        #endregion
+
+
+        #region ---Delegate
+
+        #endregion
+
     }
 }

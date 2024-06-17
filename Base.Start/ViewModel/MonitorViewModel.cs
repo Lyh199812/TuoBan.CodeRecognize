@@ -35,7 +35,7 @@ namespace Base.Start.ViewModel
             }, null, TimeSpan.Zero, TimeSpan.FromSeconds(0.5));
             #endregion
             LoadInfo();
-            CamView1 = new BasicDemoWindow();
+            CamInit();
         }
         #region Base
         Timer timer;
@@ -686,6 +686,7 @@ namespace Base.Start.ViewModel
         #endregion
 
         #region ---Property
+        //Cam1
         private object camView1;
 
         public object CamView1
@@ -695,10 +696,24 @@ namespace Base.Start.ViewModel
         }
 
 
+        //Cam2
+        private object camView2;
+
+        public object CamView2
+        {
+            get { return camView2; }
+            set { camView2 = value; RaisePropertyChanged(); }
+        }
+
         #endregion
 
         #region ---Method
-
+        public void CamInit()
+        {
+            CamView1 = new BasicDemoWindow("HKCam1");
+            CamView2 = new BasicDemoWindow("HKCam2");
+            BasicDemoWindow.AddLogAction =CommonMethods.AddSysLog;
+        }
 
         #endregion
 

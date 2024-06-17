@@ -70,7 +70,7 @@
         <GroupBox 
             Header="相机1"
             Grid.Row="0" Grid.Column="0" Margin="5">
-            <ContentControl  Content="{Binding CamView1}" Height="389"/>
+            <ContentControl  Content="{Binding CamView1}" IsEnabled="{Binding IsDebug}"/>
         </GroupBox>
 
 
@@ -78,7 +78,7 @@
         <GroupBox 
          Header="相机2"
          Grid.Row="0" Grid.Column="1" Margin="5">
-            <ContentControl Content="{Binding CamView2}">
+            <ContentControl Content="{Binding CamView2}" IsEnabled="{Binding IsDebug}">
                 
             </ContentControl>
         </GroupBox>
