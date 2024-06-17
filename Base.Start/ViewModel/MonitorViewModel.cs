@@ -23,9 +23,28 @@ namespace Base.Start.ViewModel
         public MonitorViewModel() 
         {
             CommonMethods.AddSysLog=new Action<int, string>(AddSysLog);
+            #region UpdateTime
+             timer = new Timer((state) =>
+            {
+                Application.Current.Dispatcher.Invoke(() =>
+                {
+                    CurrentTime = DateTime.Now.ToString("yyyy-MM-dd HH:mm:ss");
+                });
+            }, null, TimeSpan.Zero, TimeSpan.FromSeconds(0.5));
+            #endregion
             LoadInfo();
         }
+        #region Base
+        Timer timer;
+        //Cuurent time
+        private string currentTime;
 
+        public string CurrentTime
+        {
+            get { return currentTime; }
+            set { currentTime = value; RaisePropertyChanged(); }
+        }
+        #endregion
         #region PLC
 
         #region ---Field

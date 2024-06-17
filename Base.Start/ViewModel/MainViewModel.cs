@@ -50,7 +50,7 @@ namespace Base.Start.ViewModel
             SoftVersion = "V" + CommonMethods.SoftVersion;
             #endregion
 
-
+            
             ShowPage(Menus[0]);
         }
 
@@ -78,6 +78,9 @@ namespace Base.Start.ViewModel
             get { return softVersion; }
             set { softVersion = value; RaisePropertyChanged(); }
         }
+
+
+
 
         //当前界面
         private object _viewContent;
